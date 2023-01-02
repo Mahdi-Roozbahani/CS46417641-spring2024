@@ -1,0 +1,71 @@
+{{ $data_path := .Get "src" }} {{ $data := index $.Site.Data $data_path
+"tableRows" }}
+<div class="table-responsive">
+  <table>
+    <thead>
+      <tr>
+        <th width="3%">Week</th>
+        <th width="12%">Dates</th>
+        <th width="30%">Topics</th>
+        <th width="15%">Homework</th>
+        <th width="15%">Quizzes</th>
+        <th width="15%">Project</th>
+        <th width="20%">Readings</th>
+      </tr>
+    </thead>
+    <tbody>
+      {{ range $data }}
+      <tr>
+        <td>{{ .Week }}</td>
+        <td>{{ .Dates }}</td>
+        <td>
+          <ul>
+            {{ range .Topics }}
+            <li>{{ . | markdownify}}</li>
+            {{ end }}
+          </ul>
+        </td>
+        <td>
+          <ul>
+            {{ range .Homework }}
+            <li>{{ . | markdownify}}</li>
+            {{ end }}
+          </ul>
+        </td>
+        <td>{{ .Quizzes }}</td>
+        <td>
+          <ul>
+            {{ range .Project }}
+            <li>{{ . | markdownify }}</li>
+            {{ end }}
+          </ul>
+        </td>
+        <td>
+          <ul>
+            {{ range .Readings }}
+            <li>{{ . | markdownify }}</li>
+            {{ end }}
+          </ul>
+        </td>
+      </tr>
+      {{ end }}
+    </tbody>
+  </table>
+</div>
+
+<style>
+  .table-responsive {
+    font-size: 13px;
+  }
+
+  .table-responsive td {
+    padding: 0.5rem !important;
+  }
+
+  .table-responsive ul,
+  .table-responsive ol {
+    display: block;
+    list-style-type: disc;
+    padding-inline-start: 1rem;
+  }
+</style>

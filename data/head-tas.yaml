@@ -1,0 +1,18 @@
+---
+people:
+  - 1:
+    name: "Ruijia Wang"
+    email: rwang@gatech.edu
+    picture: /profiles/rw.png
+  - 2:
+    name: "Rusty Utomo"
+    email: rutomo6@gatech.edu
+    picture: /profiles/ru.png
+  - 3:
+    name: "Kevin Li"
+    email: kli361@gatech.edu
+    picture: /profiles/kl.png
+  - 4:
+    name: "Gururaj Deshpande"
+    email: gurudesh@gatech.edu
+    picture: /profiles/gd.png

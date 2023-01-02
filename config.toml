@@ -1,0 +1,19 @@
+baseURL = ''
+languageCode = 'en-us'
+title = 'CS 4641/7641 ML'
+theme = 'hugo-book'
+relativeURLs = true
+
+[params]
+    BookTheme = 'light'
+    BookLogo ='favicon.ico'
+    BookRepo = 'https://github.gatech.edu/gt-ml/spring-23-site'
+    BookSearch = false
+
+# Needed for mermaid/katex shortcodes
+[markup]
+[markup.goldmark.renderer]
+  unsafe = true
+
+[markup.tableOfContents]
+  startLevel = 1

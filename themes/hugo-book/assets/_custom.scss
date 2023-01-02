@@ -1,0 +1,50 @@
+/* You can add custom styles here. */
+
+// @import "plugins/numbered";
+
+// Bold site title
+.book-brand {
+    font-weight: 700;
+}
+
+// Stylings for TA profile pictures layout
+.profile-grid {
+  width: 100%;
+
+  .profile {
+    display: flex;
+    align-items: center;
+    padding: 12px 0px;
+    border-top: 1px solid rgba(227, 232, 237, 1);
+  }
+
+  .profile:last-child {
+    border-bottom: 1px solid rgba(227, 232, 237, 1);
+  }
+
+  .profile-pic {
+    width: 100px;
+    height: 100px;
+    margin-right: 20px;
+  }
+
+  .profile-name {
+    font-weight: 700;
+  }
+}
+
+// Stylings for Course Schedule Table
+.table-responsive {
+  font-size: 13px;
+
+  td {
+    padding: 0.5rem !important;
+  }
+
+  ul,
+  ol {
+    display: block;
+    list-style-type: disc;
+    padding-inline-start: 1rem;
+  }
+}

@@ -1,0 +1,118 @@
+---
+people:
+  - 1:
+    name: "Sidharta Vadaparty (Sid)"
+    email: svadaparty3@gatech.edu
+    picture: /profiles/sv.png
+  - 2:
+    name: "Rohit Das"
+    email: rohdas@gatech.edu
+    picture: /profiles/rd.png
+  - 3:
+    name: "Mengyang Liu"
+    email: "mengyang.liu@gatech.edu"
+    picture: "/profiles/ml.png"
+  - 4:
+    name: "Sidhesh Desai"
+    email: "sidhesh@gatech.edu"
+    picture: "/profiles/sd.png"
+  - 5: 
+    name: "Meghana Deepak"
+    email: "mdeepak3@gatech.edu"
+    picture: "/profiles/md.png"
+  - 6:
+    name: "Bryan Zhao"
+    email: "bzhao90@gatech.edu"
+    picture: "/profiles/bz.png"
+  - 7:
+    name: "Dimitri Adhikary"
+    email: "dadhikary3@gatech.edu"
+    picture: "/profiles/da.png"
+  - 8:
+    name: "Daanish M Mohammed"
+    email: "dmohammed7@gatech.edu"
+    picture: "/profiles/dmm.png"
+  - 9:
+    name: "Patrick Crawford"
+    email: "pcrawford9@gatech.edu"
+    picture: "/profiles/pac.png"
+  - 10: 
+    name: "Lintong Han"
+    email: "lhan63@gatech.edu"
+    picture: "/profiles/lh.png"
+  - 11:
+    name: "Arvin Poddar"
+    email: "apoddar32@gatech.edu"
+    picture: "/profiles/ap.png"
+  - 12:
+    name: "Yao Duo"
+    email: "douy@gatech.edu"
+    picture: "/profiles/yd.png"
+  - 13:
+    name: "Adarsh Honawad"
+    email: "avishwanath30@gatech.edu"
+    picture: "/profiles/ah.png"
+  - 14:
+    name: "Kasturi Gottivedu Shriniwas"
+    email: "kshriniwas3@gatech.edu"
+    picture: "/profiles/kg.png"
+  - 15:
+    name: "Ruohao Guo"
+    email: "rguo48@gatech.edu"
+    picture: "/profiles/rg.png"
+  - 16:
+    name: "Taylor Del Matto"
+    email: "tmatto3@gatech.edu"
+    picture: "/profiles/tm.png"
+  - 17:
+    name: "Venetis-Paraskevas Pallikaras"
+    email: "vpallikaras3@gatech.edu"
+    picture: "/profiles/vp.png"
+  - 18:
+    name: "Ethan Mendes"
+    email: "emendes3@gatech.edu"
+    picture: "/profiles/em.png"
+  - 19:
+    name: "Jason Wu"
+    email: "jwu341@gatech.edu"
+    picture: "/profiles/jw.png"
+  - 20:
+    name: "Anirudh Prabakaran"
+    email: "aprabakaran3@gatech.edu"
+    picture: "/profiles/apr.png"
+  - 21:
+    name: "Faizan Hasan"
+    email: "fhasan8@gatech.edu"
+    picture: "/profiles/fh.png"
+  - 22:
+    name: "Ganesh Murugappan"
+    email: "gmurugappan3@gatech.edu"
+    picture: "/profiles/gm.png"
+  - 23:
+    name: "Krish Nathan"
+    email: "knathan8@gatech.edu"
+    picture: "/profiles/kn.png"
+  - 24:
+    name: "Charles Snider"
+    email: "csnider32@gatech.edu"
+    picture: "/profiles/cs.png"
+  - 25:
+    name: "Kabir Doshi"
+    email: "kdoshi36@gatech.edu"
+    picture: "/profiles/kd.png"
+  - 26:
+    name: "Arjun Agarwal"
+    email: "aagarwal434@gatech.edu"
+    picture: "/profiles/aa.png"
+  - 27:
+    name: "Mehul Kalia"
+    email: "mkalia6@gatech.edu"
+    picture: "/profiles/mk.png"
+  - 28:
+    name: "Ziyuan Cao"
+    email: "zcao300@gatech.edu"
+    picture: "/profiles/zc.png"
+  - 29:
+    name: "Srishti Jain"
+    email: "sjain443@gatech.edu"
+    picture: "/profiles/sj.png"

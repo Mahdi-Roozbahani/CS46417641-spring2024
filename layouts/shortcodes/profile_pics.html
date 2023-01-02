@@ -1,0 +1,24 @@
+{{ $data_path := .Get "src" }} {{ $data := index $.Site.Data $data_path "people"
+}}
+<div class="profile-grid">
+  {{ range $data }}
+  <!--
+  <div class="profile">
+    <img class="profile-pic" alt="" src="{{.picture}}" />
+    <div>{{ .name }}</div>
+    <div>
+      <a href="mailto:{{.email}}">{{.email}}</a>
+    </div>
+  </div>
+  -->
+  <div class="profile">
+    <img class="profile-pic" alt="" src="{{.picture}}" />
+    <div>
+      <div class="profile-name">{{ .name }}</div>
+      <div>
+        <a href="mailto:{{.email}}">{{.email}}</a>
+      </div>
+    </div>
+  </div>
+  {{ end }}
+</div>

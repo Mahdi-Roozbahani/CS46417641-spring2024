@@ -1,0 +1,218 @@
+---
+tableRows:
+  - 1:
+    Week: 1
+    Dates: "8/22 - 8/26"
+    Topics: 
+      - "[*Course Overview](/course/01-introduction.pdf) (L1)"
+      - "[*Data analysis toolbox - P1](/course/02_tutorial_python_tools-Kevin.ipynb) (L2)"
+      - "[*Broadcasting toolbox](/course/02_Numpy%20Broadcasting%20Practice-Sid.ipynb) (L2)"
+    Quizzes: "Q0 - L1&2"
+    Readings:
+      - "[GT Honor Code](https://policylibrary.gatech.edu/student-affairs/academic-honor-code);"
+      - "[Heilmeier catechism](https://www.darpa.mil/work-with-us/heilmeier-catechism);"
+      - "[Visual Information Theory by Chris Olah](http://colah.github.io/posts/2015-09-Visual-Information/);"
+      - "[GitHub Pages](https://guides.github.com/features/pages/);"
+      - "[YAML Configuration](https://github.com/daattali/beautiful-jekyll/blob/master/_config.yml);"
+      - "[NumPy Tutorial](http://cs231n.github.io/python-numpy-tutorial/);"
+      - "[Matplotlib Tutorial](https://www.labri.fr/perso/nrougier/teaching/matplotlib/);"
+      - "[seaborn: statistical data visualization](https://seaborn.pydata.org/);"
+      - "[Overleaf for GT students](https://www.overleaf.com/edu/gatech);"
+  
+  - 2:
+    Week: 2
+    Dates: "8/29 - 9/2"
+    Topics:
+      - "[*Linear Algebra](/course/03-linear-algebra.pdf) ([*Notes](/course/03-linear-algebra-note.pdf), L3)"
+      - "[*Prob and Stats](/course/04-probability.pdf) ([*Notes](/course/04-probability-note.pdf), L4)"
+    Quizzes: "Q1 - L3,4"
+    Readings:
+      - "[Correlation vs Covariance](https://stats.stackexchange.com/questions/18082/how-would-you-explain-the-difference-between-correlation-and-covariance);"
+      - "[Linear Algebra Review by Zico Kolter](http://cs229.stanford.edu/section/cs229-linalg.pdf);"
+      - "[More about Cross Entropy and KLD](https://machinelearningmastery.com/cross-entropy-for-machine-learning/);"
+      - "[Probability Theory Review by Andrew Moore](http://www.cs.cmu.edu/~./awm/tutorials/prob.html);"
+
+  - 3:
+    Week: 3
+    Dates: "9/5 - 9/9"
+    Topics: 
+      - "Labor Day (Sept 5)"
+      - "[*Info Theory](/course/05-info-theory.pdf) ([*Notes](/course/05-info-theory-note.pdf), L5)"
+    Homework:
+      - "A1 released 9/5"
+    Quizzes: "Q2 - L5"
+    Readings:
+      - "[The Differences Between Data, Information and Knowledge](https://web.archive.org/web/20210107132902/http://www.infogineering.net/data-information-knowledge.htm)"
+      - "[Cross Entropy as loss function](https://medium.com/data-science-bootcamp/understand-cross-entropy-loss-in-minutes-9fb263caee9a#:~:text=Cross%20entropy%20is%20another%20way,there%20are%20only%20three%20classes.&text=Another%20name%20for%20this%20is%20categorical%20cross%20entropy%20loss.)"
+
+
+  - 4:
+    Week: 4
+    Dates: "9/12 - 9/16"
+    Topics: 
+      - "[*Optimization](/course/06-optimization.pdf) (L6)"
+      - "[*Toolbox - P2](/course/07_tutorial_python_tools.ipynb) (L7)"
+    Quizzes: "Q3 - L6,7"
+    Project:
+      - "Project team composition due 9/16 AOE"
+    Readings:
+      - "[KKT for inequality constrained optimization](https://www.youtube.com/watch?v=TqN-8fxYUYY);"
+      - "[Why Cross Entropy over MSE for Classification](https://susanqq.github.io/tmp_post/2017-09-05-crossentropyvsmes/);"
+      - "[Gradient Descent short video](/other/GD%20and%20momentum.mp4);"
+      - "[Matplotlib Tutorial](https://www.labri.fr/perso/nrougier/teaching/matplotlib/);"
+      - "[NumPy Tutorial](http://cs231n.github.io/python-numpy-tutorial/);"
+
+  - 5:
+    Week: 5
+    Dates: "9/19 - 9/23"
+    Topics: 
+      - "[*Clustering & K-Means](/course/09-gaussian-mixture.pdf) ([*Notes](/course/08-clustering-note.pdf) L8)"
+      - "[*GMM - Part 1](/course/09-gaussian-mixture.pdf) ([*Notes](/course/09-gaussian-mixture-note.pdf) L9)"
+    Homework:
+      - "**A1 due 9/23 AOE**"
+      - "A2 out 9/23"
+    Quizzes: "Q4 - L8"
+    Project:
+      - "Project team composition due 9/16 AOE"
+    Readings:
+      - "[Curse of dimensionality (Euclidean space example)](https://towardsdatascience.com/on-the-curse-of-dimensionality-b91a3a51268);"
+      - "[Jupyter Notbook (Kmeans and DBSCAN)](/other/06-and-08-plot_dbscan.ipynb);"
+
+  - 6:
+    Week: 6
+    Dates: "9/26 - 9/30"
+    Topics: 
+      - "[*GMM - Part 2](/course/09-gaussian-mixture.pdf) ([*Notes](/course/09-gaussian-mixture-note.pdf) L10)"
+      - "[*Hierarchical Clustering](/course/10-hierarchical-clustering.pdf) ([*Notes](/course/10-hierarchical-clustering-note.pdf) L11)"
+    Quizzes: "Q5 - L9,10,11"
+    Readings:
+      - "[Understanding the concept of Hierarchical clustering Technique](https://towardsdatascience.com/understanding-the-concept-of-hierarchical-clustering-technique-c6e8243758ec);"
+      - "[Dendrogram Visualization](https://www.data-to-viz.com/graph/dendrogram.html);"
+      - "[GitHub Student Application](https://help.github.com/en/articles/applying-for-a-student-developer-pack)"
+
+  - 7:
+    Week: 7
+    Dates: "10/3 - 10/7"
+    Topics: 
+      - "[*DB SCAN](/course/11-density-clustering.pdf) ([*Notes](/course/11-density-clustering-note.pdf) L12)"
+      - "[*Clustering Eval](/course/12-clustering-evaluation.pdf) ([*Notes](/course/12-clustering-evaluation-note.pdf) L13)"
+    Quizzes: "Q6 - L12,13"
+    Project:
+      - "Project proposal due 10/7 AOE"
+      - "Peer Evaluation 10/7 AOE"
+    Readings:
+      - "[Jupyter Notbook (Kmeans and DBSCAN)](/other/06-and-08-plot_dbscan.ipynb);"
+
+  - 8:
+    Week: 8
+    Dates: "10/10 - 10/14"
+    Topics: 
+      - "[*Density Estimation](/course/13-density-estimation.pdf) ([*Notes](/course/13-density-estimation-note.pdf) L14)"
+      - "[*Dimension Reduction](/course/14-dimension-reduction.pdf) ([*Notes](/course/14-dimension-reduction-note.pdf) L15)"
+    Quizzes: "Q7 - L14,15"
+    Readings:
+    - "[KDE interactive visualization](https://mathisonian.github.io/kde/);"
+    - "[KDE sampling](https://stats.stackexchange.com/questions/321542/how-can-i-draw-a-value-randomly-from-a-kernel-density-estimate);"
+    - "[KDE SKLearn and sampling](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KernelDensity.html);"
+    - "[Jupyter Notebook Kernel Density Example](/course/Kernel_Density_Estimation.ipynb);"
+    - "[Image reconstruction using PCA](https://stats.stackexchange.com/questions/229092/how-to-reverse-pca-and-reconstruct-original-variables-from-several-principal-com);"
+    - "[Feature extraction using PCA](http://www.visiondummy.com/2014/05/feature-extraction-using-pca/);"
+    - "[PCA for images](http://people.ciirc.cvut.cz/~hlavac/TeachPresEn/11ImageProc/15PCA.pdf);"
+    - "[PCA as linear combination of features](/other/pca_linear.pdf);"
+    - "[PCA and Linear Discriminant Analysis](/other/lda.pdf);"
+
+  - 9:
+    Week: 9
+    Dates: "10/17 - 10/21"
+    Topics: 
+      - Fall Break (Oct 17 & 18)
+      - "[*Project Practical Advice](/course/21-practical-advice.pdf) ([*Notes](/course/21-practical-advice-note.pdf) L16)"
+    Homework:
+      - "**A2 due 10/21 AEO**"
+      - "A3 out 10/21"
+    Quizzes: ""
+
+  - 10:
+    Week: 10
+    Dates: "10/24 - 10/28"
+    Topics: 
+      - "[*Linear Regression](/course/15-linear-regression.pdf) ([*Notes](/course/15-linear-regression-note.pdf) L17)"
+      - "[*LR contd](/course/15-linear-regression.pdf) ([*Notes](/course/15-linear-regression-note.pdf) L18)"
+    Quizzes: "Q8 - L17,18"
+    Readings:
+      - "[Simple Linear Regression in Matrix Format](/other/regression-cmu.pdf);"
+      - "[Adding Noise to Regression Predictors](http://madrury.github.io/jekyll/update/statistics/2017/08/12/noisy-regression.html);"
+
+  - 11:
+    Week: 11
+    Dates: "10/31 - 11/4"
+    Topics: 
+      - "[*Regularization](/course/16-regularized-regression.pdf) ([*Notes](/course/16-regularized-regression-note.pdf) L19)"
+      - "[*NB &  Logistic Reg](/course/17-logistic-regression.pdf) ([*Notes](/course/17-logistic-regression-note.pdf) L20)"
+    Quizzes: "Q9 - L19"
+
+  - 12:
+    Week: 12
+    Dates: "11/7 - 11/11"
+    Topics: 
+      - "[*NB & Logistic Reg](/course/17-logistic-regression.pdf) ([*Notes](/course/17-logistic-regression-note.pdf) L21)"
+      - "[*Neural Networks](/course/18-neural-network.pdf) ([*Notes](/course/18-neural-network-note.pdf) L22)"
+    Homework:
+      - "**A3 due Nov 11 AOE**"
+      - "A4 out Nov 11"
+    Quizzes: "Q10 - L20,21"
+    Project:
+      - "Project midpoint report 11/11 AOE"
+      - "Peer Evaluation 11/11 AOE"
+    Readings:
+      - "[NN Playground](https://playground.tensorflow.org/)"
+      - "[Interactive NN initialization](https://www.deeplearning.ai/ai-notes/initialization/);"
+      - "[The role of a hidden layer](https://www.quora.com/What-is-the-role-of-a-hidden-layer);"
+      - "[Back propagation numerical example](https://hmkcode.github.io/ai/backpropagation-step-by-step/);"
+      - "[More detailed introduction](/other/nn-intro.pdf);"
+
+  - 13:
+    Week: 13
+    Dates: "11/14 - 11/18"
+    Topics: 
+      - "[*NN contd](/course/18-neural-network.pdf) ([*Notes](/course/18-neural-network-note.pdf) L23)"
+      - "[*CNN](/course/19-neural-network-cnn.pdf) ([*Notes](/course/19-neural-network-cnn-note.pdf) L24)"
+    Quizzes: "Q11 - L22,23,24"
+    Readings:
+      - "[CNN Live Demo](https://cs.stanford.edu/people/karpathy/convnetjs/demo/cifar10.html);"
+      - "[A guide to an efficient way to build CNN and optimize its hyper-parameters](https://towardsdatascience.com/a-guide-to-an-efficient-way-to-build-neural-network-architectures-part-ii-hyper-parameter-42efca01e5d7);"
+      - "[Back Propagation in CNN](https://www.jefkine.com/general/2016/09/05/backpropagation-in-convolutional-neural-networks/);"
+      - "[Transfer learning in CNN](https://towardsdatascience.com/a-comprehensive-hands-on-guide-to-transfer-learning-with-real-world-applications-in-deep-learning-212bf3b2f27a);"
+      - "[Project Scoring Guidance](/other/Scoring%20scheme-guidance.pdf);"
+
+  - 14:
+    Week: 14
+    Dates: "11/21 - 11/25"
+    Topics: 
+      - "[*DT](/course/20-decision-tree.pdf) and [*RF](/course/21-ensemble-learning-randomforest.pdf) (Notes [*DT](/course/20-decision-tree-note.pdf) & [*RF](/course/21-ensemble-learning-randomforest-note.pdf), L25)"
+      - "Thanksgiving break (Nov 23 to 25)"
+    Quizzes: ""
+
+  - 15:
+    Week: 15
+    Dates: "11/28 - 12/2"
+    Topics: 
+      - "[*SVM - Part 1](/course/22-svm.pdf) ([*Notes](/course/22-svm-note.pdf), L26)"
+      - "[*SVM - Part 2](/course/22-svm.pdf) ([*Notes](/course/22-svm-note.pdf), L26)"
+    Homework:
+      - "A4 Due Dec 2"
+    Quizzes: "Q12 - L25"
+    Readings:
+      - "[KKT and SVM](/other/kkt-svm-stanford.pdf)"
+
+  - 16:
+    Week: 16
+    Dates: "12/5 - 12/9"
+    Topics: 
+      - "[*SVM-Kernel](/course/23-svm-kernel.pdf) ([*Notes](/course/23-svm-kernel-note.pdf), L28)"
+      - "[*Ethics in ML](/course/24-ethics.pdf) (L29)"
+      - "Final Class days (Dec 5 and 6)"
+    Quizzes: "Q13 - L26,27,28 Dec 6 AOE"
+    Project: 
+      - "Final Project due 12/6 AOE"
+      - "Peer Evaluation due 12/6 AOE"
