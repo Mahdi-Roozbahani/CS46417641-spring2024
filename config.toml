@@ -1,6 +1,6 @@
 baseURL = ''
 languageCode = 'en-us'
-title = 'CS 4641/7641 ML'
+title = 'Class Homepage'
 theme = 'hugo-book'
 relativeURLs = true
 
