@@ -2,10 +2,9 @@
 
 echo "\nClearing old docs..."
 rm -rf ./docs
-sleep 3
 echo "\nBuilding new site with hugo...\n"
 hugo
-
+sleep 3
 echo "\nDeploying site to Github...\n"
 mv ./public ./docs
 git add --all
