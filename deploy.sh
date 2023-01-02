@@ -7,7 +7,7 @@ echo "\nBuilding new site with hugo...\n"
 hugo
 
 echo "\nDeploying site to Github...\n"
-mv ./public/* ./docs
+mv ./public ./docs
 git add --all
 git commit -a -m "Publishing site build - $(date)"
 git push -u origin main --force
