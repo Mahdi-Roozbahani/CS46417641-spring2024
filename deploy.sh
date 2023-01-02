@@ -2,7 +2,7 @@
 
 echo "\nClearing old docs..."
 rm -rf ./docs
-
+sleep 3
 echo "\nBuilding new site with hugo...\n"
 hugo
 
