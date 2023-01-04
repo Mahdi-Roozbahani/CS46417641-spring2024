@@ -1,5 +1,4 @@
 #!/bin/sh
-
 echo "\nClearing old docs..."
 rm -rf ./docs
 echo "\nBuilding new site with hugo...\n"
