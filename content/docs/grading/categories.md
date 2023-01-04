@@ -33,11 +33,15 @@ You are **NOT allowed to share or discuss ANY assignment codes, information or a
 
 Check the separate project [breakdown page](/docs/grading/project-breakdown/) for more information on the components of the semester long project.
 
+## Syllabus quiz (1%)
+
+This quiz will test you on the course deadlines and rules. You can simply obtain 1% if you carefully read all the contents of the website and our class rules. We will ask questions like how many quizzes we have in the class; which days of the week we have most of our deadlines? is Participation required in the course? ...
+
 ## Quizzes (15%)
 
 There will be 13 quizzes throughout the semester. We will consider your top 10 quizzes’ scores. Each quiz will have 1.50% of your final score.
 
-**All quizzes are mandatory** to be taken even if they do not count toward your final grade. If you miss a quiz, we will deduct your score from your Class Participation score. Let’s say you miss taking one quiz; we will reduce 1.5% from your class participation score. If you miss 4 quizzes, you will lose all your class participation score, which is 5%, and we will NOT go beyond that. (if you miss 5 quizzes, we only deduct 5% from your class participation score, not 6.5%). Your class participation score can be zero at its lowest, and it won’t go to a negative number.
+**All quizzes are mandatory** to be taken even if they do not count toward your final grade. If you miss a quiz, we will deduct your score from your Class Participation score. Let’s say you miss taking one quiz; we will reduce 1.5% from your class participation score. If you miss 3 quizzes, you will lose all your class participation score, which is 4%, and we will NOT go beyond that. (if you miss 4 quizzes, we only deduct 4% from your class participation score, not 6%). Your class participation score can be zero at its lowest, and it won’t go to a negative number.
 
 The topic of each quiz will coincide roughly with the content covered in class on that week.
 
@@ -55,7 +59,7 @@ Quizzes’ answers will be released as soon as all our students took them includ
 
 Quizzes questions are selected randomly from our question bank, which means that students will not receive the same questions for their quiz.
 
-## Class Participation (5%)
+## Class Participation (4%)
 
 Edstem has statistics which give us many measurements regarding how much a student has been involved on Edstem’s activities such as viewing posts, answering questions, asking questions and so on. We use this to account for your Class Participation score. We also will add class attendance to this score. At the end of the semester, we will define a minimum and maximum number of involvement considering all the students and your grade will be defined based on that.
 
