@@ -9,7 +9,7 @@ type: docs
 
 **Instructor: Dr. Mahdi Roozbahani**
 
-**EdStem: https://edstem.org/us/courses/32639**
+**EdStem: [https://edstem.org/us/courses/32639](https://edstem.org/us/courses/32639)**
 
 This course introduces techniques in machine learning with an emphasis on algorithms and their applications to real-world data. We will investigate the following question: how to computationally extract useful knowledge from data for decision making and task support! The course will also cover briefly Ethics in Machine Learning and Secure Computing.
 
