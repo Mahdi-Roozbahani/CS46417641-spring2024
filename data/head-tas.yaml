@@ -1,9 +1,9 @@
 ---
 people:
-  - 1:
-    name: "Ruijia Wang"
-    email: rwang@gatech.edu
-    picture: /profiles/rw.png
+  # - 1:
+  #   name: "Ruijia Wang"
+  #   email: rwang@gatech.edu
+  #   picture: /profiles/rw.png
   - 2:
     name: "Rusty Utomo"
     email: rutomo6@gatech.edu
