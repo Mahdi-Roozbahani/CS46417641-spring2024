@@ -63,8 +63,7 @@ This is a checkpoint to make sure that you have had major progress in your proje
 
 ## Sample Projects
 
-- [Undergrad Canvas Access for previous ML projects](https://gatech.instructure.com/courses/261710/discussion_topics/1197787)
-- [Grad Canvas Access for previous ML projects](https://gatech.instructure.com/courses/261696/discussion_topics/1197805)
+- Please check out your Canvas under Discussion category a pinned discussion named as **"Example Project from the previous semesters"**
 - [Stanford Project Examples](http://cs229.stanford.edu/projects2012.html)
 
 ## General Project Guidance

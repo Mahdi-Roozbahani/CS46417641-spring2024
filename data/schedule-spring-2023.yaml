@@ -3,7 +3,7 @@ tableRows:
   - 1:
     Week: 1
     Dates: "1/9 - 1/13"
-    Topics: 
+    Topics:
       - "[*Course Overview](/course/01-introduction.pdf) (L1)"
       - "[*Data analysis toolbox - P1](/course/02_tutorial_python_tools-Kevin.ipynb) (L2)"
       - "[*Broadcasting toolbox](/course/02_Numpy%20Broadcasting%20Practice-Sid.ipynb) (L2)"
@@ -18,7 +18,7 @@ tableRows:
       - "[Matplotlib Tutorial](https://www.labri.fr/perso/nrougier/teaching/matplotlib/);"
       - "[seaborn: statistical data visualization](https://seaborn.pydata.org/);"
       - "[Overleaf for GT students](https://www.overleaf.com/edu/gatech);"
-  
+
   - 2:
     Week: 2
     Dates: "1/16 - 1/20"
@@ -33,8 +33,8 @@ tableRows:
   - 3:
     Week: 3
     Dates: "1/23 - 1/27"
-    Topics: 
-      - "[Prob and Stats - contd](/course/04-probability.pdf) ([Notes](/course/04-probability-note.pdf), L4)"    
+    Topics:
+      - "[Prob and Stats - contd](/course/04-probability.pdf) ([Notes](/course/04-probability-note.pdf), L4)"
       - "[Info Theory](/course/05-info-theory.pdf) ([Notes](/course/05-info-theory-note.pdf), L5)"
     Homework:
       - "A1 out 1/27"
@@ -43,13 +43,13 @@ tableRows:
       - "[The Differences Between Data, Information and Knowledge](https://web.archive.org/web/20210107132902/http://www.infogineering.net/data-information-knowledge.htm)"
       - "[Cross Entropy as loss function](https://medium.com/data-science-bootcamp/understand-cross-entropy-loss-in-minutes-9fb263caee9a#:~:text=Cross%20entropy%20is%20another%20way,there%20are%20only%20three%20classes.&text=Another%20name%20for%20this%20is%20categorical%20cross%20entropy%20loss.)"
       - "[More about Cross Entropy and KLD](https://machinelearningmastery.com/cross-entropy-for-machine-learning/);"
-      - "[Probability Theory Review by Andrew Moore](http://www.cs.cmu.edu/~./awm/tutorials/prob.html);"      
+      - "[Probability Theory Review by Andrew Moore](http://www.cs.cmu.edu/~./awm/tutorials/prob.html);"
 
 
   - 4:
     Week: 4
     Dates: "1/30 - 2/3"
-    Topics: 
+    Topics:
       - "[Optimization](/course/06-optimization.pdf) (L6)"
       - "[Toolbox - P2](/course/07_tutorial_python_tools.ipynb) (L7)"
     Quizzes: "Q3 - L6,7"
@@ -65,7 +65,7 @@ tableRows:
   - 5:
     Week: 5
     Dates: "2/6 - 2/10"
-    Topics: 
+    Topics:
       - "[Clustering & K-Means](/course/09-gaussian-mixture.pdf) ([Notes](/course/08-clustering-note.pdf) L8)"
       - "[GMM - Part 1](/course/09-gaussian-mixture.pdf) ([Notes](/course/09-gaussian-mixture-note.pdf) L9)"
     Homework:
@@ -79,7 +79,7 @@ tableRows:
   - 6:
     Week: 6
     Dates: "2/13 - 2/17"
-    Topics: 
+    Topics:
       - "[GMM - Part 2](/course/09-gaussian-mixture.pdf) ([Notes](/course/09-gaussian-mixture-note.pdf) L10)"
       - "[Hierarchical Clustering](/course/10-hierarchical-clustering.pdf) ([Notes](/course/10-hierarchical-clustering-note.pdf) L11)"
     Quizzes: "Q5 - L9,10,11"
@@ -91,7 +91,7 @@ tableRows:
   - 7:
     Week: 7
     Dates: "2/20 - 2/24"
-    Topics: 
+    Topics:
       - "[DB SCAN](/course/11-density-clustering.pdf) ([Notes](/course/11-density-clustering-note.pdf) L12)"
       - "[Clustering Eval](/course/12-clustering-evaluation.pdf) ([Notes](/course/12-clustering-evaluation-note.pdf) L13)"
     Quizzes: "Q6 - L12,13"
@@ -104,7 +104,7 @@ tableRows:
   - 8:
     Week: 8
     Dates: "2/27 - 3/3"
-    Topics: 
+    Topics:
       - "[Density Estimation](/course/13-density-estimation.pdf) ([Notes](/course/13-density-estimation-note.pdf) L14)"
       - "[Dimension Reduction](/course/14-dimension-reduction.pdf) ([Notes](/course/14-dimension-reduction-note.pdf) L15)"
     Quizzes: "Q7 - L14,15"
@@ -122,54 +122,54 @@ tableRows:
   - 9:
     Week: 9
     Dates: "3/6 - 3/10"
-    Topics: 
-      - "[*Project Practical Advice](/course/21-practical-advice.pdf) ([*Notes](/course/21-practical-advice-note.pdf) L16)"
-      - "[*Linear Regression](/course/15-linear-regression.pdf) ([*Notes](/course/15-linear-regression-note.pdf) L17)"      
+    Topics:
+      - "[*Linear Regression](/course/15-linear-regression.pdf) ([*Notes](/course/15-linear-regression-note.pdf) L17)"
+      - "[*LR contd](/course/15-linear-regression.pdf) ([*Notes](/course/15-linear-regression-note.pdf) L18)"
     Homework:
       - "**A2 due 3/10**"
       - "A3 out 3/10"
-    Quizzes: "Q8 - L17"
+    Quizzes: "Q8 - L17&L18"
     Readings:
-      - "[Simple Linear Regression in Matrix Format](/other/regression-cmu.pdf);"    
+      - "[Simple Linear Regression in Matrix Format](/other/regression-cmu.pdf);"
 
   - 10:
     Week: 10
     Dates: "3/13 - 3/17"
-    Topics: 
-      - "[*LR contd](/course/15-linear-regression.pdf) ([*Notes](/course/15-linear-regression-note.pdf) L18)"
-      - "[*Regularization](/course/16-regularized-regression.pdf) ([*Notes](/course/16-regularized-regression-note.pdf) L19)"      
-    Quizzes: "Q9 - L18,19"
+    Topics:
+      - "[*Regularization](/course/16-regularized-regression.pdf) ([*Notes](/course/16-regularized-regression-note.pdf) L19)"
+      - "[*NB &  Logistic Reg](/course/17-logistic-regression.pdf) ([*Notes](/course/17-logistic-regression-note.pdf) L20)"
+    Quizzes: "Q9 - L19"
     Readings:
       - "[Adding Noise to Regression Predictors](http://madrury.github.io/jekyll/update/statistics/2017/08/12/noisy-regression.html);"
 
   - 11:
     Week: 11
     Dates: "3/20 - 3/24"
-    Topics: 
+    Topics:
       - "Spring Break"
     Quizzes: ""
-    
+
   - 12:
     Week: 12
     Dates: "3/27 - 3/31"
-    Topics: 
-      - "[*NB &  Logistic Reg](/course/17-logistic-regression.pdf) ([*Notes](/course/17-logistic-regression-note.pdf) L20)"
-      - "[*NB & Logistic Reg](/course/17-logistic-regression.pdf) ([*Notes](/course/17-logistic-regression-note.pdf) L21)"      
-    Quizzes: "Q10 - L20,21"    
+    Topics:
+      - "[*NB & Logistic Reg](/course/17-logistic-regression.pdf) ([*Notes](/course/17-logistic-regression-note.pdf) L21)"
+      - "[*Project Practical Advice](/course/21-practical-advice.pdf) ([*Notes](/course/21-practical-advice-note.pdf) L16)"
+    Quizzes: "Q10 - L20,21"
+    Project:
+      - "Project midpoint report 3/31 AOE"
+      - "Peer Evaluation 3/31 AOE"
 
   - 13:
     Week: 13
     Dates: "4/3 - 4/7"
-    Topics: 
+    Topics:
       - "[*Neural Networks](/course/18-neural-network.pdf) ([*Notes](/course/18-neural-network-note.pdf) L22)"
-      - "[*NN contd](/course/18-neural-network.pdf) ([*Notes](/course/18-neural-network-note.pdf) L23)"      
+      - "[*NN contd](/course/18-neural-network.pdf) ([*Notes](/course/18-neural-network-note.pdf) L23)"
     Homework:
       - "**A3 due 4/7**"
       - "A4 out 4/7"
     Quizzes: "Q11 - L22,23"
-    Project:
-      - "Project midpoint report 4/7 AOE"
-      - "Peer Evaluation 4/7 AOE"
     Readings:
       - "[NN Playground](https://playground.tensorflow.org/)"
       - "[Interactive NN initialization](https://www.deeplearning.ai/ai-notes/initialization/);"
@@ -180,9 +180,9 @@ tableRows:
   - 14:
     Week: 14
     Dates: "4/10 - 4/14"
-    Topics: 
+    Topics:
       - "[CNN](/course/19-neural-network-cnn.pdf) ([Notes](/course/19-neural-network-cnn-note.pdf) L24)"
-      - "[DT](/course/20-decision-tree.pdf) and [RF](/course/21-ensemble-learning-randomforest.pdf) (Notes [DT](/course/20-decision-tree-note.pdf) & [RF](/course/21-ensemble-learning-randomforest-note.pdf), L25)"      
+      - "[DT](/course/20-decision-tree.pdf) and [RF](/course/21-ensemble-learning-randomforest.pdf) (Notes [DT](/course/20-decision-tree-note.pdf) & [RF](/course/21-ensemble-learning-randomforest-note.pdf), L25)"
     Quizzes: "Q12 - L24,25"
     Readings:
       - "[CNN Live Demo](https://cs.stanford.edu/people/karpathy/convnetjs/demo/cifar10.html);"
@@ -194,24 +194,24 @@ tableRows:
   - 15:
     Week: 15
     Dates: "4/17 - 4/21"
-    Topics: 
+    Topics:
       - "[SVM - Part 1](/course/22-svm.pdf) ([Notes](/course/22-svm-note.pdf), L26)"
       - "[SVM - Part 2](/course/22-svm.pdf) ([Notes](/course/22-svm-note.pdf), L27)"
     Homework:
-      - "**A4 Due 4/21**"      
+      - "**A4 Due 4/21**"
     Quizzes: "Q13 - L26,27"
 
   - 16:
     Week: 16
     Dates: "4/24 - 4/25"
-    Topics: 
+    Topics:
       - "[SVM-Kernel](/course/23-svm-kernel.pdf) ([Notes](/course/23-svm-kernel-note.pdf), L28)"
       - "[Ethics in ML](/course/24-ethics.pdf) (L29)"
-      - "Final Class days (Apr 24 and 25)"      
+      - "Final Class days (Apr 24 and 25)"
 
     Quizzes: ""
     Readings:
       - "[KKT and SVM](/other/kkt-svm-stanford.pdf)"
-    Project: 
+    Project:
       - "Final Project due 4/25"
-      - "Peer Evaluation due 4/25"      
+      - "Peer Evaluation due 4/25"
