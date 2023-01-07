@@ -44,6 +44,7 @@ This is a checkpoint to make sure that you have had major progress in your proje
     - All groups should have their dataset cleaned at this point
     - We expect to see data pre-processing in your project such as feature selection (Forward or backward feature selection, dimensionality reduction methods such as PCA, Lasso, LDA, .. ), taking care of missing features in your dataset, …
     - We expect to see at least one supervised or unsupervised method implemented and the results need to be studied in details. For example evaluating your predictive model performance using different metrics (take a look at [ML Metrics](https://scikit-learn.org/stable/modules/model_evaluation.html))
+    - You MUST include visualizations of your dataset (if possible) and your results. Visualizations include graphs, charts, tables. Code snippets do not count as visualizations. You can use [Matplotlib](https://matplotlib.org/) or [Seaborn](https://seaborn.pydata.org/) to create your visualizations. We recommend using [Plotly](https://plotly.com/) for interactive visualizations in Python as well as interactive visualizations on your website.
   - An updated contribution table from with all group members’ names that explicitly provides the contribution of each member in preparing the project task.
 - You do not submit any video recording for the midterm report.
 
@@ -56,6 +57,7 @@ This is a checkpoint to make sure that you have had major progress in your proje
   - Data Collection
   - Methods
   - Results and Discussion (We expect to see multiple predictive models and your team need to compare them together and evaluate the results. If your team is working on a Deep learning project, you could finely tune hyperparameters and explain how it could improve the results or you could employ different architectures or methods)
+    - Like the midterm report, visualizations are EXPECTED and essential to receiving a high grade. Visualizations should support your conclusions and should be neatly incorporated in the report.
   - Conclusions
   - An updated contribution table from with all group members’ names that explicitly provides the contribution of each member in preparing the project task.
 - Your group needs to submit a presentation of your final report. Please provide us a public link which includes a 7 to 9 minutes recorded video. I found that [OBS Studio](https://obsproject.com/) and [GT subscribed Kaltura](https://corp.kaltura.com/) are good tools to record your screen. Please make sure your visuals are clearly visible in your video presentation.
@@ -69,6 +71,7 @@ This is a checkpoint to make sure that you have had major progress in your proje
 ## General Project Guidance
 
 ### Criteria
+
 Your project will be graded based on the following criteria:
 
 **Was the motivation clear?**
@@ -79,10 +82,13 @@ Your project will be graded based on the following criteria:
 - What are its characteristics (e.g. number of features, # of records, temporal or not, etc.)
 - Why do you think your approach can effectively solve your problem?
 - What is new in your approach?
+- Effective visualizations? (Are they relevant? Do they help you better understand the project’s approaches and ideas?)
 **Were the experiments, results, and conclusion satisfactory?**
 - How did you evaluate your approach?
 - What are the results?
+- Why do you think your results are satifactory? If not, what are the limitations? What is work that could be done to improve results?
 - How do you compare your method to other methods?
+- Effective visualizations? (Are they relevant? Do they help you better understand the project’s approaches and ideas?)
 **How was the presentation in general?**
 - Finished on time?
 - Effective visualizations? (Are they relevant? Do they help you better understand the project’s approaches and ideas?)
