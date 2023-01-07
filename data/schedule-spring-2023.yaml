@@ -123,8 +123,8 @@ tableRows:
     Week: 9
     Dates: "3/6 - 3/10"
     Topics:
-      - "[*Linear Regression](/course/15-linear-regression.pdf) ([*Notes](/course/15-linear-regression-note.pdf) L17)"
-      - "[*LR contd](/course/15-linear-regression.pdf) ([*Notes](/course/15-linear-regression-note.pdf) L18)"
+      - "[Linear Regression](/course/15-linear-regression.pdf) ([*Notes](/course/15-linear-regression-note.pdf) L17)"
+      - "[LR contd](/course/15-linear-regression.pdf) ([*Notes](/course/15-linear-regression-note.pdf) L18)"
     Homework:
       - "**A2 due 3/10**"
       - "A3 out 3/10"
@@ -136,8 +136,8 @@ tableRows:
     Week: 10
     Dates: "3/13 - 3/17"
     Topics:
-      - "[*Regularization](/course/16-regularized-regression.pdf) ([*Notes](/course/16-regularized-regression-note.pdf) L19)"
-      - "[*NB &  Logistic Reg](/course/17-logistic-regression.pdf) ([*Notes](/course/17-logistic-regression-note.pdf) L20)"
+      - "[Regularization](/course/16-regularized-regression.pdf) ([Notes](/course/16-regularized-regression-note.pdf) L19)"
+      - "[NB &  Logistic Reg](/course/17-logistic-regression.pdf) ([Notes](/course/17-logistic-regression-note.pdf) L20)"
     Quizzes: "Q9 - L19"
     Readings:
       - "[Adding Noise to Regression Predictors](http://madrury.github.io/jekyll/update/statistics/2017/08/12/noisy-regression.html);"
@@ -153,8 +153,8 @@ tableRows:
     Week: 12
     Dates: "3/27 - 3/31"
     Topics:
-      - "[*NB & Logistic Reg](/course/17-logistic-regression.pdf) ([*Notes](/course/17-logistic-regression-note.pdf) L21)"
-      - "[*Project Practical Advice](/course/21-practical-advice.pdf) ([*Notes](/course/21-practical-advice-note.pdf) L16)"
+      - "[NB & Logistic Reg](/course/17-logistic-regression.pdf) ([Notes](/course/17-logistic-regression-note.pdf) L21)"
+      - "[Project Practical Advice](/course/21-practical-advice.pdf) ([Notes](/course/21-practical-advice-note.pdf) L16)"
     Quizzes: "Q10 - L20,21"
     Project:
       - "Project midpoint report 3/31 AOE"
@@ -164,8 +164,8 @@ tableRows:
     Week: 13
     Dates: "4/3 - 4/7"
     Topics:
-      - "[*Neural Networks](/course/18-neural-network.pdf) ([*Notes](/course/18-neural-network-note.pdf) L22)"
-      - "[*NN contd](/course/18-neural-network.pdf) ([*Notes](/course/18-neural-network-note.pdf) L23)"
+      - "[Neural Networks](/course/18-neural-network.pdf) ([Notes](/course/18-neural-network-note.pdf) L22)"
+      - "[NN contd](/course/18-neural-network.pdf) ([Notes](/course/18-neural-network-note.pdf) L23)"
     Homework:
       - "**A3 due 4/7**"
       - "A4 out 4/7"

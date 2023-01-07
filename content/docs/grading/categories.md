@@ -6,7 +6,7 @@ title: "Categories"
 
 # Categories
 
-## Assignments - 50%
+## Assignments (50%)
 
 There will be four assignments. Each one is designed to improve and test your understanding of the materials. Assignments will have both programming and written analysis components.
 
@@ -45,7 +45,7 @@ There will be 13 quizzes throughout the semester. We will consider your top 10 q
 
 The topic of each quiz will coincide roughly with the content covered in class on that week.
 
-Quizzes will have a duration of seven-minutes for Undergrad students and six-minutes for Grad students. Each quiz will have five multiple choice questions . All quizzes will be released on Thursdays weekly at 6:00 pm EST and the deadlines will be on Fridays AOE. To check deadlines for Quizzes, ensure to check the class schedule table. Any possible changes on quizzes dates will be reflected on our course schedule page. Please make sure to check our class website before taking the quiz.
+Quizzes will have a duration of seven-minutes for Undergrad students and six-minutes for Grad students. Each quiz will have five multiple choice questions . All quizzes will be released on Thursdays weekly at 6:00 pm EST and the deadlines will be on Fridays 23:59 EST. To check deadlines for Quizzes, ensure to check the class schedule table. Any possible changes on quizzes dates will be reflected on our course schedule page. Please make sure to check our class website before taking the quiz.
 
 Quizzes have 48 hours “grace period” without any penalty:
 
