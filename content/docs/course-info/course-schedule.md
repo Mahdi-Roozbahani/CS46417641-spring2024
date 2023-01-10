@@ -16,5 +16,6 @@ All deadline and due dates in this course will be at 23:59 ET.
 {{< hint warning >}}
 Scroll horizontally to see the full schedule table on mobile devices
 {{< /hint >}}
+Astericks (\*) indicate that the lecture slides/notes are available.
 
 {{< schedule_table src="schedule-spring-2023">}}
