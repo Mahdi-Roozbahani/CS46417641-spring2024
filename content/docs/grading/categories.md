@@ -19,7 +19,7 @@ We have 4 big assignments in total. The reason we do not call them projects is b
 
 You will need to submit all your assignments using Gradescope. Instructions on how to submit your code and written portions will follow with every assignment. **Handwritten solutions WILL NOT BE ACCEPTED** and you will not receive credit for a handwritten submission.
 
-You are required to use Markdown, Latex [watch the tutorial created by our own team](https://gtvault-my.sharepoint.com/:v:/g/personal/mroozbahani3_gatech_edu/EYKmtW3-sIFAoJG1N5kn4t8BxJWJwPlzBnn6wIgGK6hnow?e=eeLMGy) and [OverLeaf Latex Example in the Video](https://www.overleaf.com/read/fnpmvchnfqmp)), or a word processing software to generate your solutions to the written questions. Handwritten solutions WILL NOT BE ACCEPTED. You can easily export your Jupyter Notebook to a Python file and import that to your desired python IDE to debug your code for assignments.
+You are required to use Markdown, Latex [watch the tutorial created by our own team](https://gtvault-my.sharepoint.com/:v:/g/personal/mroozbahani3_gatech_edu/EYKmtW3-sIFAoJG1N5kn4t8BtjvYfIcpU1vIdQ_E4LwW3Q?e=E4Ioco) and [OverLeaf Latex Example in the Video](https://www.overleaf.com/read/fnpmvchnfqmp)), or a word processing software to generate your solutions to the written questions. Handwritten solutions WILL NOT BE ACCEPTED. You can easily export your Jupyter Notebook to a Python file and import that to your desired python IDE to debug your code for assignments.
 
 All assignments follow the “no-late” policy. Assignments received after the due date and time will receive **zero credit**.
 
