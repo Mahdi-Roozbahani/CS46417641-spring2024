@@ -50,7 +50,7 @@ tableRows:
     Dates: "1/30 - 2/3"
     Topics:
       - "[Optimization](/course/06-optimization.pdf) (L6)"
-      - "[Toolbox - P2](/course/07_tutorial_python_tools.ipynb) (L7)"
+      - "[Toolbox - P2](/course/02-numpy_broadcasting_tutorial) (L7)"
     Quizzes: "Q3 - L6,7"
     Project:
       - "Project team composition due 2/3"
