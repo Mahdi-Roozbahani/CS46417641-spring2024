@@ -21,7 +21,7 @@ In-person office hours location will be updated on the OH Excel Sheet for each T
 Switch to "Week" view by clicking the button in the top right of the calendar to see hour-by-hour availability.
 {{< /hint >}}
 
-{{< iframe src="https://calendar.google.com/calendar/embed?src=kvoa028e2c08i72m470e15466o%40group.calendar.google.com&ctz=America%2FNew_York" >}}
+{{< iframe src="https://calendar.google.com/calendar/embed?src=4h4scs68qofoouqu6ef4eoi44k%40group.calendar.google.com&ctz=America%2FNew_York" >}}
 
 ## Rules and Guidelines
 

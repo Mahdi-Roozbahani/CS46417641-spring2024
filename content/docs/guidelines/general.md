@@ -19,8 +19,8 @@ All class deliverables will be handled via Gradescope except quizzes which will 
 Edstem will be the main and only place for the course discussions and announcements. If you have questions, please ask it on Edstem first because 1) other students may have the same question; 2) you will get help much faster.
 
 - For public homework specific questions, PLEASE use the appropriate TA created mega threads instead of creating a new individual thread.
-- If it’s something you do not like to discuss publicly on Edstem, you can use chat messages on Edstem.
-- Anytime you want to send a chat message to just me on Edstem, please make sure to add our HEAD TAs too in case I may miss your message.
+- If it’s something you do not like to discuss publicly on Edstem, you can create a private post on Edstem.
+- If the issue you want to discuss is sensitive or you are not comfortable discussing with the whole teaching team in a private post, please create a private post asking us to create a private chat. Either Mahdi or one of the Head TAs will create a private chat for you.
 - **Edstem GOOD questions:**
   - "I don’t understand this part of the lecture, can you explain it to me?"
   - "This certain part of the hw is not clear to me, would it be possible to explain that more?"
