@@ -21,7 +21,9 @@ You will need to submit all your assignments using Gradescope. Instructions on h
 
 You are required to use Markdown, Latex [watch the tutorial created by our own team](https://gtvault-my.sharepoint.com/:v:/g/personal/mroozbahani3_gatech_edu/EYKmtW3-sIFAoJG1N5kn4t8BtjvYfIcpU1vIdQ_E4LwW3Q?e=E4Ioco) and [OverLeaf Latex Example in the Video](https://www.overleaf.com/read/fnpmvchnfqmp)), or a word processing software to generate your solutions to the written questions. Handwritten solutions WILL NOT BE ACCEPTED. You can easily export your Jupyter Notebook to a Python file and import that to your desired python IDE to debug your code for assignments.
 
-All assignments follow the “no-late” policy. Assignments received after the due date and time will receive **zero credit**.
+All 4 assignments will have a 48-hour **Penalized** Acceptance Period after the assignment due date where we will accept the assignment with a penalty. Submissions turned in during this period will have its grade reduced by a linear percentage deduction commensurate to how much of the 48-hour penalized acceptance period is used. The penalty is capped to a 20% deduction of the submission grade. **Assignments received after the 48-hour Penalized Acceptance Period will receive <u>zero credit</u>**.
+
+This deduction applies separately to each component of the assignment that is submitted separately on Gradescope. Consider an example where a student submits the coding portion of their assignment on time but submits the written portion 12 hours after the deadline. In this case, the coding portion will not be penalized, and the written portion will be subject to a 5% deduction.
 
 ## Honor Code
 
