@@ -22,7 +22,7 @@ tableRows:
     Week: 2
     Dates: "1/16 - 1/20"
     Topics:
-      - "[*Linear Algebra](/course/03-linear-algebra.pdf) ([Notes](/course/03-linear-algebra-note.pdf), L3)"
+      - "[*Linear Algebra](/course/03-linear-algebra.pdf) ([*Notes](/course/03-linear-algebra-note.pdf), L3)"
       - "[*Prob and Stats](/course/04-probability.pdf) ([Notes](/course/04-probability-note.pdf), L4)"
     Quizzes: "Q1 - L3"
     Readings:
