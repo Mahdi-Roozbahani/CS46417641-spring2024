@@ -22,9 +22,9 @@ tableRows:
     Week: 2
     Dates: "1/16 - 1/20"
     Topics:
-      - "[*Linear Algebra](/course/03-linear-algebra.pdf) ([Notes](/course/03-linear-algebra-note.pdf), L3)"
-      - "[*Prob and Stats](/course/04-probability.pdf) ([Notes](/course/04-probability-note.pdf), L4)"
-    Quizzes: "Q1 - L3 & Syllabus Quiz"
+      - "[*Linear Algebra](/course/03-linear-algebra.pdf) ([*Notes](/course/03-linear-algebra-note.pdf), L3)"
+      - "[*Prob and Stats](/course/04-probability.pdf) ([*Notes](/course/04-probability-note.pdf), L4)"
+    Quizzes: "Q1 - L3"
     Readings:
       - "[Correlation vs Covariance](https://stats.stackexchange.com/questions/18082/how-would-you-explain-the-difference-between-correlation-and-covariance);"
       - "[Linear Algebra Review by Zico Kolter](http://cs229.stanford.edu/section/cs229-linalg.pdf);"
