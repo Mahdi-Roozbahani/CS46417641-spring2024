@@ -34,7 +34,7 @@ tableRows:
     Dates: "1/23 - 1/27"
     Topics:
       - "[*Prob and Stats - contd](/course/04-probability.pdf) ([Notes](/course/04-probability-note.pdf), L4)"
-      - "[Info Theory](/course/05-info-theory.pdf) ([Notes](/course/05-info-theory-note.pdf), L5)"
+      - "[*Info Theory](/course/05-info-theory.pdf) ([Notes](/course/05-info-theory-note.pdf), L5)"
     Homework:
       - "A1 out 1/23"
     Quizzes: "Q2 - L4,5"
@@ -49,7 +49,7 @@ tableRows:
     Week: 4
     Dates: "1/30 - 2/3"
     Topics:
-      - "[Optimization](/course/06-optimization.pdf) (L6)"
+      - "[*Optimization](/course/06-optimization.pdf) (L6)"
       - "[Toolbox - P2](/course/02-numpy_broadcasting_tutorial.ipynb) (L7)"
     Quizzes: "Q3 - L6,7"
     Project:
