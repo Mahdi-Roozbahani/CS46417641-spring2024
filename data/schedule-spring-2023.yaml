@@ -33,11 +33,11 @@ tableRows:
     Week: 3
     Dates: "1/23 - 1/27"
     Topics:
-      - "[*Prob and Stats - contd](/course/04-probability.pdf) ([*Notes](/course/04-probability-note.pdf), L4)"
-      - "[*Info Theory](/course/05-info-theory.pdf) ([*Notes](/course/05-info-theory-note.pdf), L5)"
+      - "[*Prob and Stats - contd](/course/04-probability.pdf) ([*Notes](/course/04-probability-note.pdf), L5)"
+      - "[*Info Theory](/course/05-info-theory.pdf) ([*Notes](/course/05-info-theory-note.pdf), L6)"
     Homework:
       - "A1 out 1/23"
-    Quizzes: "Q2 - L4,5"
+    Quizzes: "Q2 - L4, L5,6"
     Readings:
       - "[The Differences Between Data, Information and Knowledge](https://web.archive.org/web/20210107132902/http://www.infogineering.net/data-information-knowledge.htm)"
       - "[Cross Entropy as loss function](https://medium.com/data-science-bootcamp/understand-cross-entropy-loss-in-minutes-9fb263caee9a#:~:text=Cross%20entropy%20is%20another%20way,there%20are%20only%20three%20classes.&text=Another%20name%20for%20this%20is%20categorical%20cross%20entropy%20loss.)"
@@ -49,9 +49,9 @@ tableRows:
     Week: 4
     Dates: "1/30 - 2/3"
     Topics:
-      - "[*Optimization](/course/06-optimization.pdf) (L6)"
-      - "[*Toolbox - P2](/course/02-numpy_broadcasting_tutorial.ipynb) (L7)"
-    Quizzes: "Q3 - L6,7"
+      - "[*Optimization](/course/06-optimization.pdf) (L7)"
+      - "[*Toolbox - P2](/course/02-numpy_broadcasting_tutorial.ipynb) (L8)"
+    Quizzes: "Q3 - L7,8"
     Project:
       - "Project team composition due 2/3"
     Readings:
@@ -65,12 +65,12 @@ tableRows:
     Week: 5
     Dates: "2/6 - 2/10"
     Topics:
-      - "[Clustering & K-Means](/course/09-gaussian-mixture.pdf) ([Notes](/course/08-clustering-note.pdf) L8)"
-      - "[GMM - Part 1](/course/09-gaussian-mixture.pdf) ([Notes](/course/09-gaussian-mixture-note.pdf) L9)"
+      - "[Clustering & K-Means](/course/09-gaussian-mixture.pdf) ([Notes](/course/08-clustering-note.pdf) L9)"
+      - "[GMM - Part 1](/course/09-gaussian-mixture.pdf) ([Notes](/course/09-gaussian-mixture-note.pdf) L10)"
     Homework:
       - "**A1 due 2/10**"
       - "A2 out 2/10"
-    Quizzes: "Q4 - L8"
+    Quizzes: "Q4 - L9"
     Readings:
       - "[Curse of dimensionality (Euclidean space example)](https://towardsdatascience.com/on-the-curse-of-dimensionality-b91a3a51268);"
       - "[Jupyter Notbook (Kmeans and DBSCAN)](/other/06-and-08-plot_dbscan.ipynb);"
@@ -79,9 +79,9 @@ tableRows:
     Week: 6
     Dates: "2/13 - 2/17"
     Topics:
-      - "[GMM - Part 2](/course/09-gaussian-mixture.pdf) ([Notes](/course/09-gaussian-mixture-note.pdf) L10)"
-      - "[Hierarchical Clustering](/course/10-hierarchical-clustering.pdf) ([Notes](/course/10-hierarchical-clustering-note.pdf) L11)"
-    Quizzes: "Q5 - L9,10,11"
+      - "[GMM - Part 2](/course/09-gaussian-mixture.pdf) ([Notes](/course/09-gaussian-mixture-note.pdf) L11)"
+      - "[Hierarchical Clustering](/course/10-hierarchical-clustering.pdf) ([Notes](/course/10-hierarchical-clustering-note.pdf) L12)"
+    Quizzes: "Q5 - L10,11,12"
     Readings:
       - "[Understanding the concept of Hierarchical clustering Technique](https://towardsdatascience.com/understanding-the-concept-of-hierarchical-clustering-technique-c6e8243758ec);"
       - "[Dendrogram Visualization](https://www.data-to-viz.com/graph/dendrogram.html);"
@@ -91,9 +91,9 @@ tableRows:
     Week: 7
     Dates: "2/20 - 2/24"
     Topics:
-      - "[DB SCAN](/course/11-density-clustering.pdf) ([Notes](/course/11-density-clustering-note.pdf) L12)"
-      - "[Clustering Eval](/course/12-clustering-evaluation.pdf) ([Notes](/course/12-clustering-evaluation-note.pdf) L13)"
-    Quizzes: "Q6 - L12,13"
+      - "[DB SCAN](/course/11-density-clustering.pdf) ([Notes](/course/11-density-clustering-note.pdf) L13)"
+      - "[Clustering Eval](/course/12-clustering-evaluation.pdf) ([Notes](/course/12-clustering-evaluation-note.pdf) L14)"
+    Quizzes: "Q6 - L13,14"
     Project:
       - "Project proposal due 2/24"
       - "Peer Evaluation 2/24"
@@ -104,9 +104,9 @@ tableRows:
     Week: 8
     Dates: "2/27 - 3/3"
     Topics:
-      - "[Density Estimation](/course/13-density-estimation.pdf) ([Notes](/course/13-density-estimation-note.pdf) L14)"
-      - "[Dimension Reduction](/course/14-dimension-reduction.pdf) ([Notes](/course/14-dimension-reduction-note.pdf) L15)"
-    Quizzes: "Q7 - L14,15"
+      - "[Density Estimation](/course/13-density-estimation.pdf) ([Notes](/course/13-density-estimation-note.pdf) L15)"
+      - "[Dimension Reduction](/course/14-dimension-reduction.pdf) ([Notes](/course/14-dimension-reduction-note.pdf) L16)"
+    Quizzes: "Q7 - L15,16"
     Readings:
     - "[KDE interactive visualization](https://mathisonian.github.io/kde/);"
     - "[KDE sampling](https://stats.stackexchange.com/questions/321542/how-can-i-draw-a-value-randomly-from-a-kernel-density-estimate);"
@@ -153,7 +153,7 @@ tableRows:
     Dates: "3/27 - 3/31"
     Topics:
       - "[NB & Logistic Reg](/course/17-logistic-regression.pdf) ([Notes](/course/17-logistic-regression-note.pdf) L21)"
-      - "[Project Practical Advice](/course/21-practical-advice.pdf) ([Notes](/course/21-practical-advice-note.pdf) L16)"
+      - "[Project Practical Advice](/course/21-practical-advice.pdf) ([Notes](/course/21-practical-advice-note.pdf) L22)"
     Quizzes: "Q10 - L20,21"
     Project:
       - "Project midpoint report 3/31 AOE"
@@ -163,12 +163,12 @@ tableRows:
     Week: 13
     Dates: "4/3 - 4/7"
     Topics:
-      - "[Neural Networks](/course/18-neural-network.pdf) ([Notes](/course/18-neural-network-note.pdf) L22)"
-      - "[NN contd](/course/18-neural-network.pdf) ([Notes](/course/18-neural-network-note.pdf) L23)"
+      - "[Neural Networks](/course/18-neural-network.pdf) ([Notes](/course/18-neural-network-note.pdf) L23)"
+      - "[NN contd](/course/18-neural-network.pdf) ([Notes](/course/18-neural-network-note.pdf) L24)"
     Homework:
       - "**A3 due 4/7**"
       - "A4 out 4/7"
-    Quizzes: "Q11 - L22,23"
+    Quizzes: "Q11 - L23,24"
     Readings:
       - "[NN Playground](https://playground.tensorflow.org/)"
       - "[Interactive NN initialization](https://www.deeplearning.ai/ai-notes/initialization/);"
@@ -180,9 +180,9 @@ tableRows:
     Week: 14
     Dates: "4/10 - 4/14"
     Topics:
-      - "[CNN](/course/19-neural-network-cnn.pdf) ([Notes](/course/19-neural-network-cnn-note.pdf) L24)"
-      - "[DT](/course/20-decision-tree.pdf) and [RF](/course/21-ensemble-learning-randomforest.pdf) (Notes [DT](/course/20-decision-tree-note.pdf) & [RF](/course/21-ensemble-learning-randomforest-note.pdf), L25)"
-    Quizzes: "Q12 - L24,25"
+      - "[CNN](/course/19-neural-network-cnn.pdf) ([Notes](/course/19-neural-network-cnn-note.pdf) L25)"
+      - "[DT](/course/20-decision-tree.pdf) and [RF](/course/21-ensemble-learning-randomforest.pdf) (Notes [DT](/course/20-decision-tree-note.pdf) & [RF](/course/21-ensemble-learning-randomforest-note.pdf), L26)"
+    Quizzes: "Q12 - L25,26"
     Readings:
       - "[CNN Live Demo](https://cs.stanford.edu/people/karpathy/convnetjs/demo/cifar10.html);"
       - "[A guide to an efficient way to build CNN and optimize its hyper-parameters](https://towardsdatascience.com/a-guide-to-an-efficient-way-to-build-neural-network-architectures-part-ii-hyper-parameter-42efca01e5d7);"
@@ -194,17 +194,17 @@ tableRows:
     Week: 15
     Dates: "4/17 - 4/21"
     Topics:
-      - "[SVM - Part 1](/course/22-svm.pdf) ([Notes](/course/22-svm-note.pdf), L26)"
-      - "[SVM - Part 2](/course/22-svm.pdf) ([Notes](/course/22-svm-note.pdf), L27)"
+      - "[SVM - Part 1](/course/22-svm.pdf) ([Notes](/course/22-svm-note.pdf), L27)"
+      - "[SVM - Part 2](/course/22-svm.pdf) ([Notes](/course/22-svm-note.pdf), L28)"
     Homework:
       - "**A4 Due 4/21**"
-    Quizzes: "Q13 - L26,27"
+    Quizzes: "Q13 - L27,28"
 
   - 16:
     Week: 16
     Dates: "4/24 - 4/25"
     Topics:
-      - "[SVM-Kernel](/course/23-svm-kernel.pdf) ([Notes](/course/23-svm-kernel-note.pdf), L28)"
+      - "[SVM-Kernel](/course/23-svm-kernel.pdf) ([Notes](/course/23-svm-kernel-note.pdf), L29)"
       - "[Ethics in ML](/course/24-ethics.pdf) (L29)"
       - "Final Class days (Apr 24 and 25)"
 
