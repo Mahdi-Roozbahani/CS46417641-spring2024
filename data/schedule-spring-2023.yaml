@@ -65,8 +65,8 @@ tableRows:
     Week: 5
     Dates: "2/6 - 2/10"
     Topics:
-      - "[Clustering & K-Means](/course/09-gaussian-mixture.pdf) ([Notes](/course/08-clustering-note.pdf) L9)"
-      - "[GMM - Part 1](/course/09-gaussian-mixture.pdf) ([Notes](/course/09-gaussian-mixture-note.pdf) L10)"
+      - "[*Clustering & K-Means](/course/09-gaussian-mixture.pdf) ([Notes](/course/08-clustering-note.pdf) L9)"
+      - "[*GMM - Part 1](/course/09-gaussian-mixture.pdf) ([Notes](/course/09-gaussian-mixture-note.pdf) L10)"
     Homework:
       - "**A1 due 2/10**"
       - "A2 out 2/10"
@@ -79,7 +79,7 @@ tableRows:
     Week: 6
     Dates: "2/13 - 2/17"
     Topics:
-      - "[GMM - Part 2](/course/09-gaussian-mixture.pdf) ([Notes](/course/09-gaussian-mixture-note.pdf) L11)"
+      - "[*GMM - Part 2](/course/09-gaussian-mixture.pdf) ([Notes](/course/09-gaussian-mixture-note.pdf) L11)"
       - "[Hierarchical Clustering](/course/10-hierarchical-clustering.pdf) ([Notes](/course/10-hierarchical-clustering-note.pdf) L12)"
     Quizzes: "Q5 - L10,11,12"
     Readings:
