@@ -80,7 +80,7 @@ tableRows:
     Dates: "2/13 - 2/17"
     Topics:
       - "[*GMM - Part 2](/course/09-gaussian-mixture.pdf) ([*Notes](/course/09-gaussian-mixture-note.pdf) L11)"
-      - "[*Hierarchical Clustering](/course/10-hierarchical-clustering.pdf) ([Notes](/course/10-hierarchical-clustering-note.pdf) L12)"
+      - "[*Hierarchical Clustering](/course/10-hierarchical-clustering.pdf) ([*Notes](/course/10-hierarchical-clustering-note.pdf) L12)"
     Quizzes: "Q5 - L10,11,12"
     Readings:
       - "[Understanding the concept of Hierarchical clustering Technique](https://towardsdatascience.com/understanding-the-concept-of-hierarchical-clustering-technique-c6e8243758ec);"
