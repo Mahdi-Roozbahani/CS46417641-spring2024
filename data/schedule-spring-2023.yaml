@@ -91,8 +91,8 @@ tableRows:
     Week: 7
     Dates: "2/20 - 2/24"
     Topics:
-      - "[DB SCAN](/course/11-density-clustering.pdf) ([*Notes](/course/11-density-clustering-note.pdf) L13)"
-      - "[Clustering Eval](/course/12-clustering-evaluation.pdf) ([*Notes](/course/12-clustering-evaluation-note.pdf) L14)"
+      - "[*DB SCAN](/course/11-density-clustering.pdf) ([*Notes](/course/11-density-clustering-note.pdf) L13)"
+      - "[*Clustering Eval](/course/12-clustering-evaluation.pdf) ([*Notes](/course/12-clustering-evaluation-note.pdf) L14)"
     Quizzes: "Q6 - L13,14"
     Project:
       - "Project proposal due 2/24"
