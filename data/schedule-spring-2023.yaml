@@ -104,8 +104,8 @@ tableRows:
     Week: 8
     Dates: "2/27 - 3/3"
     Topics:
-      - "[Density Estimation](/course/13-density-estimation.pdf) ([Notes](/course/13-density-estimation-note.pdf) L15)"
-      - "[Dimension Reduction](/course/14-dimension-reduction.pdf) ([Notes](/course/14-dimension-reduction-note.pdf) L16)"
+      - "[*Density Estimation](/course/13-density-estimation.pdf) ([Notes](/course/13-density-estimation-note.pdf) L15)"
+      - "[*Dimension Reduction](/course/14-dimension-reduction.pdf) ([Notes](/course/14-dimension-reduction-note.pdf) L16)"
     Quizzes: "Q7 - L15,16"
     Readings:
     - "[KDE interactive visualization](https://mathisonian.github.io/kde/);"
