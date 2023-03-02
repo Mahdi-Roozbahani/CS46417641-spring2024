@@ -104,9 +104,9 @@ tableRows:
     Week: 8
     Dates: "2/27 - 3/3"
     Topics:
-      - "[*Density Estimation](/course/13-density-estimation.pdf) ([Notes](/course/13-density-estimation-note.pdf) L15)"
-      - "[*Dimension Reduction](/course/14-dimension-reduction.pdf) ([Notes](/course/14-dimension-reduction-note.pdf) L16)"
-    Quizzes: "Q7 - L15,16"
+      - "[*Density Estimation](/course/13-density-estimation.pdf) ([*Notes](/course/13-density-estimation-note.pdf) L15)"
+      - "[*Dimension Reduction](/course/14-dimension-reduction.pdf) ([*Notes](/course/14-dimension-reduction-note.pdf) L16)"
+    Quizzes: "Q7 - L15"
     Readings:
     - "[KDE interactive visualization](https://mathisonian.github.io/kde/);"
     - "[KDE sampling](https://stats.stackexchange.com/questions/321542/how-can-i-draw-a-value-randomly-from-a-kernel-density-estimate);"
@@ -127,7 +127,7 @@ tableRows:
     Homework:
       - "**A2 due 3/10**"
       - "A3 out 3/10"
-    Quizzes: "Q8 - L17&L18"
+    Quizzes: "Q8 - L16&L17&L18"
     Readings:
       - "[Simple Linear Regression in Matrix Format](/other/regression-cmu.pdf);"
 
