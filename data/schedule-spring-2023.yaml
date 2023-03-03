@@ -127,7 +127,7 @@ tableRows:
     Homework:
       - "**A2 due 3/10**"
       - "A3 out 3/10"
-    Quizzes: "Q8 - L16,L17,L18"
+    Quizzes: "Q8 - L16, L17, L18"
     Readings:
       - "[Simple Linear Regression in Matrix Format](/other/regression-cmu.pdf);"
 
