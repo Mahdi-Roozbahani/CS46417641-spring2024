@@ -111,7 +111,7 @@ tableRows:
     - "[KDE interactive visualization](https://mathisonian.github.io/kde/);"
     - "[KDE sampling](https://stats.stackexchange.com/questions/321542/how-can-i-draw-a-value-randomly-from-a-kernel-density-estimate);"
     - "[KDE SKLearn and sampling](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KernelDensity.html);"
-    - "[Jupyter Notebook Kernel Density Example](/course/Kernel_Density_Estimation.ipynb);"
+    - "[Jupyter Notebook Kernel Density Example](/other/06-and-08-plot_dbscan.ipynb);"
     - "[Image reconstruction using PCA](https://stats.stackexchange.com/questions/229092/how-to-reverse-pca-and-reconstruct-original-variables-from-several-principal-com);"
     - "[Feature extraction using PCA](http://www.visiondummy.com/2014/05/feature-extraction-using-pca/);"
     - "[PCA for images](http://people.ciirc.cvut.cz/~hlavac/TeachPresEn/11ImageProc/15PCA.pdf);"
@@ -122,8 +122,8 @@ tableRows:
     Week: 9
     Dates: "3/6 - 3/10"
     Topics:
-      - "[Linear Regression](/course/15-linear-regression.pdf) ([Notes](/course/15-linear-regression-note.pdf) L17)"
-      - "[LR contd](/course/15-linear-regression.pdf) ([Notes](/course/15-linear-regression-note.pdf) L18)"
+      - "[*Linear Regression](/course/15-linear-regression.pdf) ([Notes](/course/15-linear-regression-note.pdf) L17)"
+      - "[*LR contd](/course/15-linear-regression.pdf) ([Notes](/course/15-linear-regression-note.pdf) L18)"
     Homework:
       - "**A2 due 3/10**"
       - "A3 out 3/10"
