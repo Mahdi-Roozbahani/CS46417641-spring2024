@@ -122,8 +122,8 @@ tableRows:
     Week: 9
     Dates: "3/6 - 3/10"
     Topics:
-      - "[*Linear Regression](/course/15-linear-regression.pdf) ([Notes](/course/15-linear-regression-note.pdf) L17)"
-      - "[*LR contd](/course/15-linear-regression.pdf) ([Notes](/course/15-linear-regression-note.pdf) L18)"
+      - "[*Linear Regression](/course/15-linear-regression.pdf) ([*Notes](/course/15-linear-regression-note.pdf) L17)"
+      - "[*LR contd](/course/15-linear-regression.pdf) ([*Notes](/course/15-linear-regression-note.pdf) L18)"
     Homework:
       - "**A2 due 3/10**"
       - "A3 out 3/10"
