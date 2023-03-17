@@ -136,7 +136,7 @@ tableRows:
     Dates: "3/13 - 3/17"
     Topics:
       - "[*Regularization](/course/16-regularized-regression.pdf) ([*Notes](/course/16-regularized-regression-note.pdf) L19)"
-      - "[*NB &  Logistic Reg](/course/17-logistic-regression.pdf) ([Notes](/course/17-logistic-regression-note.pdf) L20)"
+      - "[*NB &  Logistic Reg](/course/17-logistic-regression.pdf) ([*Notes](/course/17-logistic-regression-note.pdf) L20)"
     Quizzes: "Q9 - L19"
     Readings:
       - "[Adding Noise to Regression Predictors](http://madrury.github.io/jekyll/update/statistics/2017/08/12/noisy-regression.html);"
