@@ -153,7 +153,7 @@ tableRows:
     Dates: "3/27 - 3/31"
     Topics:
       - "[*NB & Logistic Reg](/course/17-logistic-regression.pdf) ([Notes](/course/17-logistic-regression-note.pdf) L21)"
-      - "[*Project Practical Advice](/course/21-practical-advice.pdf) ([Notes](/course/21-practical-advice-note.pdf) L22)"
+      - "[*Project Practical Advice](/course/21-practical-advice.pdf)"
     Quizzes: "Q10 - L20,L21"
     Project:
       - "Project midpoint report 3/31 AOE"
@@ -163,8 +163,8 @@ tableRows:
     Week: 13
     Dates: "4/3 - 4/7"
     Topics:
-      - "[Neural Networks](/course/18-neural-network.pdf) ([Notes](/course/18-neural-network-note.pdf) L23)"
-      - "[NN contd](/course/18-neural-network.pdf) ([Notes](/course/18-neural-network-note.pdf) L24)"
+      - "[*Neural Networks](/course/18-neural-network.pdf) ([Notes](/course/18-neural-network-note.pdf) L23)"
+      - "[*NN contd](/course/18-neural-network.pdf) ([Notes](/course/18-neural-network-note.pdf) L24)"
     Homework:
       - "**A3 due 4/7**"
       - "A4 out 4/7"
@@ -180,7 +180,7 @@ tableRows:
     Week: 14
     Dates: "4/10 - 4/14"
     Topics:
-      - "[CNN](/course/19-neural-network-cnn.pdf) ([Notes](/course/19-neural-network-cnn-note.pdf) L25)"
+      - "[*CNN](/course/19-neural-network-cnn.pdf) ([Notes](/course/19-neural-network-cnn-note.pdf) L25)"
       - "[DT](/course/20-decision-tree.pdf) and [RF](/course/21-ensemble-learning-randomforest.pdf) (Notes [DT](/course/20-decision-tree-note.pdf) & [RF](/course/21-ensemble-learning-randomforest-note.pdf), L26)"
     Quizzes: "Q12 - L25,26"
     Readings:
