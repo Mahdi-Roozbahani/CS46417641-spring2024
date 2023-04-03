@@ -152,8 +152,8 @@ tableRows:
     Week: 12
     Dates: "3/27 - 3/31"
     Topics:
-      - "[*NB & Logistic Reg](/course/17-logistic-regression.pdf) ([Notes](/course/17-logistic-regression-note.pdf) L21)"
-      - "[*Project Practical Advice](/course/21-practical-advice.pdf)"
+      - "[*NB & Logistic Reg](/course/17-logistic-regression.pdf) ([*Notes](/course/17-logistic-regression-note.pdf) L21)"
+      - "[*Project Practical Advice](/course/21-practical-advice.pdf) ([*Notes](/course/21-practical-advice-note.pdf) L22)"
     Quizzes: "Q10 - L20,L21"
     Project:
       - "Project midpoint report 3/31 AOE"
