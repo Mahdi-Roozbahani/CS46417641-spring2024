@@ -180,8 +180,8 @@ tableRows:
     Week: 14
     Dates: "4/10 - 4/14"
     Topics:
-      - "[*CNN](/course/19-neural-network-cnn.pdf) ([Notes](/course/19-neural-network-cnn-note.pdf) L25)"
-      - "[*DT](/course/20-decision-tree.pdf) and [*RF](/course/21-ensemble-learning-randomforest.pdf) (Notes [DT](/course/20-decision-tree-note.pdf) & [RF](/course/21-ensemble-learning-randomforest-note.pdf), L26)"
+      - "[*CNN](/course/19-neural-network-cnn.pdf) ([*Notes](/course/19-neural-network-cnn-note.pdf) L25)"
+      - "[*DT](/course/20-decision-tree.pdf) and [*RF](/course/21-ensemble-learning-randomforest.pdf) (*Notes [DT](/course/20-decision-tree-note.pdf) & [*RF](/course/21-ensemble-learning-randomforest-note.pdf), L26)"
     Quizzes: "Q12 - L25,26"
     Readings:
       - "[CNN Live Demo](https://cs.stanford.edu/people/karpathy/convnetjs/demo/cifar10.html);"
