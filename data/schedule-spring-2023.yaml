@@ -194,8 +194,8 @@ tableRows:
     Week: 15
     Dates: "4/17 - 4/21"
     Topics:
-      - "[SVM - Part 1](/course/22-svm.pdf) ([Notes](/course/22-svm-note.pdf), L27)"
-      - "[SVM - Part 2](/course/22-svm.pdf) ([Notes](/course/22-svm-note.pdf), L28)"
+      - "[*SVM - Part 1](/course/22-svm.pdf) ([Notes](/course/22-svm-note.pdf), L27)"
+      - "[*SVM - Part 2](/course/22-svm.pdf) ([Notes](/course/22-svm-note.pdf), L28)"
     Homework:
       - "**A4 Due 4/21**"
     Quizzes: "Q13 - L27,28"
@@ -204,8 +204,8 @@ tableRows:
     Week: 16
     Dates: "4/24 - 4/25"
     Topics:
-      - "[SVM-Kernel](/course/23-svm-kernel.pdf) ([Notes](/course/23-svm-kernel-note.pdf), L29)"
-      - "[Ethics in ML](/course/24-ethics.pdf) (L29)"
+      - "[*SVM-Kernel](/course/23-svm-kernel.pdf) ([Notes](/course/23-svm-kernel-note.pdf), L29)"
+      - "[*Ethics in ML](/course/24-ethics.pdf) (L29)"
       - "Final Class days (Apr 24 and 25)"
 
     Quizzes: ""
