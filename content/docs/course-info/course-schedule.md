@@ -18,4 +18,4 @@ Scroll horizontally to see the full schedule table on mobile devices
 {{< /hint >}}
 Astericks (\*) indicate that the lecture slides/notes are available.
 
-{{< schedule_table src="schedule-spring-2023">}}
+{{< schedule_table src="schedule-summer-2023">}}
