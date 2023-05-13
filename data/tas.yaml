@@ -163,4 +163,12 @@ people:
   - 39:
     name: "Neda Tavakoli"
     email: "ntavakoli6@gatech.edu"
-    picture: "/profiles/nt.png"    
+    picture: "/profiles/nt.png"
+  - 40:
+    name: "Matthew Lau"
+    email: "mlau40@gatech.edu"
+    picture: "/profiles/mel.png"
+  - 41:
+    name: "Zongao Bian"
+    email: "zbian30@gatech.edu"
+    picture: "/profiles/zb.png"

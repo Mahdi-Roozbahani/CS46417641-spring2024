@@ -8,7 +8,7 @@ title: "Office Hours"
 
 ## Overview
 
-Office hours will start on the second week of clases in a hybrid mode for both online and in-person. Please follow the instruction on this Excel Sheet [[Grad](https://gatech.instructure.com/courses/291890/discussion_topics/1343279)|[Undergrad](https://gatech.instructure.com/courses/291918/discussion_topics/1343161)] ​to signup for a 10-minutes slot with one of the TAs. If you require more than ten minutes, please advise the TAs. They’ll return to your Zoom meeting once they have completed their appointments with other students. You just need to add your name, question of interest and your Zoom meeting link. Please do not change the other part of the Excel Sheet.
+Office hours will start on the second week of clases in a hybrid mode for both online and in-person. Please follow the instruction on this Excel Sheet [[Grad](https://gatech.instructure.com/courses/331150/discussion_topics/1466991)|[Undergrad](https://gatech.instructure.com/courses/331130/discussion_topics/1466973)] ​to signup for a 10-minutes slot with one of the TAs. If you require more than ten minutes, please advise the TAs. They’ll return to your Zoom meeting once they have completed their appointments with other students. You just need to add your name, question of interest and your Zoom meeting link. Please do not change the other part of the Excel Sheet.
 
 The TA meetings are designed to be one-on-one. Please do not join another student’s Zoom meeting. The sole exception to this policy being discussions about the project, in which your fellow team members can also join.
 
