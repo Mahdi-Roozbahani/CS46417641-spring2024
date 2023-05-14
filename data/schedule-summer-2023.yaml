@@ -4,8 +4,8 @@ tableRows:
     Week: 1
     Dates: "5/15 - 5/19"
     Topics:
-      - "[Course Overview](/course/01-introduction.pdf) (L1)"
-      - "[Linear Algebra](/course/03-linear-algebra.pdf) ([Notes](/course/03-linear-algebra-note.pdf), L2)"
+      - "[*Course Overview](/course/01-introduction.pdf) (L1)"
+      - "[*Linear Algebra](/course/03-linear-algebra.pdf) ([Notes](/course/03-linear-algebra-note.pdf), L2)"
     Quizzes: "Q0 - L1 | Q1 - L2"
     Readings:
       - "[GT Honor Code](https://policylibrary.gatech.edu/student-affairs/academic-honor-code);"
@@ -20,7 +20,7 @@ tableRows:
     Week: 2
     Dates: "5/22 - 5/26"
     Topics:
-      - "[Prob and Stats](/course/04-probability.pdf) ([Notes](/course/04-probability-note.pdf), L3)"
+      - "[*Prob and Stats](/course/04-probability.pdf) ([Notes](/course/04-probability-note.pdf), L3)"
       - "[Info Theory](/course/05-info-theory.pdf) ([Notes](/course/05-info-theory-note.pdf), L4)"
     Homework:
       - "A1 out 5/22"
@@ -28,6 +28,7 @@ tableRows:
     Project:
       - "Project team composition due 5/26"
     Readings:
+      - "[Independence, Coorelation, Orthogonality](https://www.youtube.com/watch?v=s5lCl3aQ_A4&ab_channel=linanhuang)"
       - "[Correlation vs Covariance](https://stats.stackexchange.com/questions/18082/how-would-you-explain-the-difference-between-correlation-and-covariance);"
       - "[The Differences Between Data, Information and Knowledge](https://web.archive.org/web/20210107132902/http://www.infogineering.net/data-information-knowledge.htm)"
       - "[Cross Entropy as loss function](https://medium.com/data-science-bootcamp/understand-cross-entropy-loss-in-minutes-9fb263caee9a#:~:text=Cross%20entropy%20is%20another%20way,there%20are%20only%20three%20classes.&text=Another%20name%20for%20this%20is%20categorical%20cross%20entropy%20loss.)"
