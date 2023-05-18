@@ -5,7 +5,7 @@ tableRows:
     Dates: "5/15 - 5/19"
     Topics:
       - "[*Course Overview](/course/01-introduction.pdf) (L1)"
-      - "[*Linear Algebra](/course/03-linear-algebra.pdf) ([Notes](/course/03-linear-algebra-note.pdf), L2)"
+      - "[*Linear Algebra](/course/03-linear-algebra.pdf) ([*Notes](/course/03-linear-algebra-note.pdf), L2)"
     Quizzes: "Q0 - L1 | Q1 - L2"
     Readings:
       - "[GT Honor Code](https://policylibrary.gatech.edu/student-affairs/academic-honor-code);"
@@ -20,7 +20,7 @@ tableRows:
     Week: 2
     Dates: "5/22 - 5/26"
     Topics:
-      - "[*Prob and Stats](/course/04-probability.pdf) ([Notes](/course/04-probability-note.pdf), L3)"
+      - "[*Prob and Stats](/course/04-probability.pdf) ([*Notes](/course/04-probability-note.pdf), L3)"
       - "[Info Theory](/course/05-info-theory.pdf) ([Notes](/course/05-info-theory-note.pdf), L4)"
     Homework:
       - "A1 out 5/22"
