@@ -35,6 +35,8 @@ You are **NOT allowed to share or discuss ANY assignment codes, information or a
 
 Check the separate project [breakdown page](/docs/grading/project-breakdown/) for more information on the components of the semester long project.
 
+**Note that** Project deliverables do not have any Penalized Acceptance Period (i.e. HWs) or Grace Period (i.e. Quizzes). For any due dates, please refer to the class schedule table. 
+
 ## Syllabus quiz (1%)
 
 This quiz will test you on the course deadlines and rules. You can simply obtain 1% if you carefully read all the contents of the website and our class rules. We will ask questions like how many quizzes we have in the class; which days of the week we have most of our deadlines? is Participation required in the course? ...
@@ -49,7 +51,7 @@ The topic of each quiz will coincide roughly with the content covered in class o
 
 Quizzes will have a duration of seven-minutes for Undergrad students and six-minutes for Grad students. Each quiz will have five multiple choice questions . All quizzes will be released on Thursdays weekly at 6:00 pm EST and the deadlines will be on Fridays 23:59 EST. To check deadlines for Quizzes, ensure to check the class schedule table. Any possible changes on quizzes dates will be reflected on our course schedule page. Please make sure to check our class website before taking the quiz.
 
-Quizzes have 48 hours “grace period” without any penalty:
+Quizzes have 48 hours **“grace period”** without any penalty:
 
 - If a student decides to make a submission during the grace period, they are responsible for all issues associated with that submission and
 - Course staff support is not guaranteed during the grace period; We provide help only when available.
