@@ -41,7 +41,7 @@ tableRows:
     Dates: "5/29 - 6/2"
     Topics:
       - "[*Optimization](/course/06-optimization.pdf) (L5)"
-      - "[Toolbox - P1](/course/02-numpy_broadcasting_tutorial.ipynb) (L5)"
+      - "[Toolbox - P1/P2](/course/02-numpy_broadcasting_tutorial.ipynb) (L5)"
       - Memorial Day Holiday
 
     Homework:
