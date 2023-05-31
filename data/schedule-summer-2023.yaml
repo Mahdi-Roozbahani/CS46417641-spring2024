@@ -40,13 +40,14 @@ tableRows:
     Week: 3
     Dates: "5/29 - 6/2"
     Topics:
-      - "[*Optimization](/course/06-optimization.pdf) (L5)"
-      - "[Toolbox - P1/P2](/course/02-numpy_broadcasting_tutorial.ipynb) (L5)"
       - Memorial Day Holiday
+      - "[*Optimization](/course/06-optimization.pdf) (L5)"
+      - "[*Toolbox - P1/P2](/course/02-numpy_broadcasting_tutorial.ipynb) (L5)"
 
     Homework:
     Quizzes: "Q4 - L5"
     Readings:
+      - "[Debugging Common Errors in NumPy](/other/Debugging Common Errors in NumPy.ipynb);"
       - "[NumPy Tutorial](http://cs231n.github.io/python-numpy-tutorial/);"
       - "[Matplotlib Tutorial](https://www.labri.fr/perso/nrougier/teaching/matplotlib/);"
       - "[seaborn: statistical data visualization](https://seaborn.pydata.org/);"
@@ -61,7 +62,7 @@ tableRows:
     Week: 4
     Dates: "6/5 - 6/9"
     Topics:
-      - "[Clustering & K-Means](/course/08-clustering.pdf) ([Notes](/course/08-clustering-note.pdf) L7)"
+      - "[*Clustering & K-Means](/course/08-clustering.pdf) ([Notes](/course/08-clustering-note.pdf) L7)"
       - "[Hierarchical Clustering](/course/10-hierarchical-clustering.pdf) ([Notes](/course/10-hierarchical-clustering-note.pdf) L7)"
       - "[GMM - Part 1](/course/09-gaussian-mixture.pdf) ([Notes](/course/09-gaussian-mixture-note.pdf) L8)"
     Homework:
