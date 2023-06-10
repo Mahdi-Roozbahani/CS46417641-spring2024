@@ -62,9 +62,9 @@ tableRows:
     Week: 4
     Dates: "6/5 - 6/9"
     Topics:
-      - "[*Clustering & K-Means](/course/08-clustering.pdf) ([Notes](/course/08-clustering-note.pdf) L7)"
-      - "[*Hierarchical Clustering](/course/10-hierarchical-clustering.pdf) ([Notes](/course/10-hierarchical-clustering-note.pdf) L7)"
-      - "[*GMM - Part 1](/course/09-gaussian-mixture.pdf) ([Notes](/course/09-gaussian-mixture-note.pdf) L8)"
+      - "[*Clustering & K-Means](/course/08-clustering.pdf) ([*Notes](/course/08-clustering-note.pdf) L7)"
+      - "[*Hierarchical Clustering](/course/10-hierarchical-clustering.pdf) ([*Notes](/course/10-hierarchical-clustering-note.pdf) L7)"
+      - "[*GMM - Part 1](/course/09-gaussian-mixture.pdf) ([*Notes](/course/09-gaussian-mixture-note.pdf) L8)"
     Homework:
       - "**A1 due 6/9**"
       - "A2 out 6/9"
