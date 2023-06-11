@@ -82,9 +82,9 @@ tableRows:
     Dates: "6/12 - 6/16"
     Topics:
       - "[*GMM - Part 2](/course/09-gaussian-mixture.pdf) ([Notes](/course/09-gaussian-mixture-note.pdf) L9-A)"
-      - "[DB SCAN](/course/11-density-clustering.pdf) ([Notes](/course/11-density-clustering-note.pdf) L9-B)"
-      - "[Clustering Eval](/course/12-clustering-evaluation.pdf) ([Notes](/course/12-clustering-evaluation-note.pdf) L10-A)"
-      - "[Density Estimation](/course/13-density-estimation.pdf) ([Notes](/course/13-density-estimation-note.pdf) L10-B)"
+      - "[*DB SCAN](/course/11-density-clustering.pdf) ([Notes](/course/11-density-clustering-note.pdf) L9-B)"
+      - "[*Clustering Eval](/course/12-clustering-evaluation.pdf) ([Notes](/course/12-clustering-evaluation-note.pdf) L10-A)"
+      - "[*Density Estimation](/course/13-density-estimation.pdf) ([Notes](/course/13-density-estimation-note.pdf) L10-B)"
     Homework:
     Quizzes: "Q7 - L9, L10-A (Density Estimaion NOT included)"
     Project:
@@ -102,8 +102,8 @@ tableRows:
     Dates: "6/19 - 6/23"
     Topics:
       - Juneteenth Holiday
-      - "[Density Estimation - Contd](/course/13-density-estimation.pdf) ([Notes](/course/13-density-estimation-note.pdf) L10-B)"
-      - "[Dimension Reduction](/course/14-dimension-reduction.pdf) ([Notes](/course/14-dimension-reduction-note.pdf) L11)"
+      - "[*Density Estimation - Contd](/course/13-density-estimation.pdf) ([Notes](/course/13-density-estimation-note.pdf) L10-B)"
+      - "[*Dimension Reduction](/course/14-dimension-reduction.pdf) ([Notes](/course/14-dimension-reduction-note.pdf) L11)"
     Quizzes: "Q8 - L10-B (Density Estimaion included), L11"
     Readings:
     - "[Image reconstruction using PCA](https://stats.stackexchange.com/questions/229092/how-to-reverse-pca-and-reconstruct-original-variables-from-several-principal-com);"
