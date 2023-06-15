@@ -82,14 +82,14 @@ tableRows:
     Dates: "6/12 - 6/16"
     Topics:
       - "[*GMM - Part 2](/course/09-gaussian-mixture.pdf) ([*Notes](/course/09-gaussian-mixture-note.pdf) L9-A)"
-      - "[*DB SCAN](/course/11-density-clustering.pdf) ([*Notes](/course/11-density-clustering-note.pdf) L9-B)"
-      - "[*Clustering Eval](/course/12-clustering-evaluation.pdf) ([Notes](/course/12-clustering-evaluation-note.pdf) L10-A)"
-      - "[*Density Estimation](/course/13-density-estimation.pdf) ([Notes](/course/13-density-estimation-note.pdf) L10-B)"
+      - "[*DBSCAN](/course/11-density-clustering.pdf) ([*Notes](/course/11-density-clustering-note.pdf) L9-B)"
+      - "[*Clustering Eval](/course/12-clustering-evaluation.pdf) ([*Notes](/course/12-clustering-evaluation-note.pdf) L10-A)"
+      - "[*Density Estimation](/course/13-density-estimation.pdf) ([*Notes](/course/13-density-estimation-note.pdf) L10-B)"
     Homework:
     Quizzes: "Q7 - L9, L10-A (Density Estimaion NOT included)"
     Project:
       - "Project proposal due 6/16"
-      - "Peer Evaluation 6/16"
+      - "Peer Evaluation 6/21"
     Readings:
       - "[Jupyter Notbook (Kmeans and DBSCAN)](/other/06-and-08-plot_dbscan.ipynb);"
       - "[KDE interactive visualization](https://mathisonian.github.io/kde/);"
@@ -136,7 +136,7 @@ tableRows:
     Quizzes: "Q10 - L14"
     Project:
       - "Project midpoint report 7/7"
-      - "Peer Evaluation 7/7"
+      - "Peer Evaluation 7/12"
     Readings:
 
 
@@ -183,7 +183,7 @@ tableRows:
     Quizzes: ""
     Project:
       - "Final Project due 7/25 can submit till 7/28 without any penalty"
-      - "Peer Evaluation due 7/25"
+      - "Peer Evaluation due 7/28"
     Readings:
       - "[KKT and SVM](/other/kkt-svm-stanford.pdf)"
       - "[*Ethics in ML](/course/24-ethics.pdf)"
