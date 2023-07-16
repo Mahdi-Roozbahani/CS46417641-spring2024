@@ -146,7 +146,7 @@ tableRows:
     Dates: "7/10 - 7/14"
     Topics:
       - "[*Neural Networks](/course/18-neural-network.pdf) ([*Notes](/course/18-neural-network-note.pdf) L15)"
-      - "[*CNN](/course/19-neural-network-cnn.pdf) ([Notes](/course/19-neural-network-cnn-note.pdf) L16)"
+      - "[*CNN](/course/19-neural-network-cnn.pdf) ([*Notes](/course/19-neural-network-cnn-note.pdf) L16)"
     Homework:
       - "**A3 due 7/14**"
       - "A4 out 7/14"
@@ -168,8 +168,8 @@ tableRows:
     Dates: "7/17 - 7/21"
     Topics:
       - "[*DT](/course/20-decision-tree.pdf) ([Notes](/course/20-decision-tree-note.pdf), L17)"
-      - "[RF](/course/21-ensemble-learning-randomforest.pdf) ([Notes](/course/21-ensemble-learning-randomforest-note.pdf), L17)"
-      - "[SVM](/course/22-svm.pdf) ([Notes](/course/22-svm-note.pdf), L18)"
+      - "[*RF](/course/21-ensemble-learning-randomforest.pdf) ([Notes](/course/21-ensemble-learning-randomforest-note.pdf), L17)"
+      - "[*SVM](/course/22-svm.pdf) ([Notes](/course/22-svm-note.pdf), L18)"
     Quizzes: "Q12 - L17 | Q13 - L18"
     Readings:
 
@@ -177,7 +177,7 @@ tableRows:
     Week: 11
     Dates: "7/24 - 7/25"
     Topics:
-      - "[SVM-Kernel](/course/23-svm-kernel.pdf) ([Notes](/course/23-svm-kernel-note.pdf), L19)"
+      - "[*SVM-Kernel](/course/23-svm-kernel.pdf) ([Notes](/course/23-svm-kernel-note.pdf), L19)"
       - Final Instructional Day
     Homework:
       - "**A4 due 7/25** can submit till 7/28 without any penalty"
