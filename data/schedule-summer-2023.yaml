@@ -169,7 +169,7 @@ tableRows:
     Topics:
       - "[*DT](/course/20-decision-tree.pdf) ([*Notes](/course/20-decision-tree-note.pdf), L17)"
       - "[*RF](/course/21-ensemble-learning-randomforest.pdf) ([*Notes](/course/21-ensemble-learning-randomforest-note.pdf), L17)"
-      - "[*SVM](/course/22-svm.pdf) ([Notes](/course/22-svm-note.pdf), L18)"
+      - "[*SVM](/course/22-svm.pdf) ([*Notes](/course/22-svm-note.pdf), L18)"
     Quizzes: "Q12 - L17 | Q13 - L18"
     Readings:
 
@@ -177,7 +177,7 @@ tableRows:
     Week: 11
     Dates: "7/24 - 7/25"
     Topics:
-      - "[*SVM-Kernel](/course/23-svm-kernel.pdf) ([Notes](/course/23-svm-kernel-note.pdf), L19)"
+      - "[*SVM-Kernel](/course/23-svm-kernel.pdf) ([*Notes](/course/23-svm-kernel-note.pdf), L19)"
       - Final Instructional Day
     Homework:
       - "**A4 due 7/25** can submit till 7/28 without any penalty"
