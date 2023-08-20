@@ -52,3 +52,15 @@ To manually deploy the site:
 2. If the build is successful, the outputs will go to a `public` directory in the root.
 3. Delete the old `docs` directory, and rename this new `public` directory to be `docs`.
 4. Push the changes
+
+
+### Adding T Teams
+1. Install-Module -Name MicrosoftTeams
+2. $credential = Get-Credential
+Connect-MicrosoftTeams -Credential $credential
+3. $users = Import-Csv -Path "path_to_your_csv.csv"
+$teamId = "your_team_id"
+
+foreach ($user in $users) {
+    Add-TeamUser -GroupId $teamId -User $user.Email
+}
