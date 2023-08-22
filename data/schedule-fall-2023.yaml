@@ -23,8 +23,8 @@ tableRows:
     Week: 2
     Dates: "Aug 28-Sep 1"
     Topics:
-      - "[Linear Algebra](/course/03-linear-algebra.pdf) ([*Notes](/course/03-linear-algebra-note.pdf), L3)"
-      - "[Prob and Stats](/course/04-probability.pdf) ([*Notes](/course/04-probability-note.pdf), L4)"
+      - "[Linear Algebra](/course/03-linear-algebra.pdf) ([Notes](/course/03-linear-algebra-note.pdf), L3)"
+      - "[Prob and Stats](/course/04-probability.pdf) ([Notes](/course/04-probability-note.pdf), L4)"
     Quizzes: "Q1 - L3 & Syllabus Quiz"
     Readings:
       - "[Correlation vs Covariance](https://stats.stackexchange.com/questions/18082/how-would-you-explain-the-difference-between-correlation-and-covariance);"
@@ -35,7 +35,7 @@ tableRows:
     Dates: "Sep 4-8"
     Topics:
       - "Labor Day (Sep 4 - no class for all sections Mon&Tue)"
-      - "[Prob and Stats - contd](/course/04-probability.pdf) ([*Notes](/course/04-probability-note.pdf), L5)"
+      - "[Prob and Stats - contd](/course/04-probability.pdf) ([Notes](/course/04-probability-note.pdf), L5)"
 
     Homework:
       - "A1 out Sep 4"
@@ -51,7 +51,7 @@ tableRows:
     Week: 4
     Dates: "Sep 11-15"
     Topics:
-      - "[Info Theory](/course/05-info-theory.pdf) ([*Notes](/course/05-info-theory-note.pdf), L6)"
+      - "[Info Theory](/course/05-info-theory.pdf) ([Notes](/course/05-info-theory-note.pdf), L6)"
       - "[Optimization](/course/06-optimization.pdf) (L7)"
     Quizzes: "Q3 - L6,7"
     Project:
@@ -68,7 +68,7 @@ tableRows:
     Dates: "Sep 18-22"
     Topics:
       - "[Toolbox - P2](/course/02-numpy_broadcasting_tutorial.ipynb) (L8)"    
-      - "[Clustering & K-Means](/course/08-clustering.pdf) ([*Notes](/course/08-clustering-note.pdf) L9)"
+      - "[Clustering & K-Means](/course/08-clustering.pdf) ([Notes](/course/08-clustering-note.pdf) L9)"
     Homework:
       - "**A1 due Sept-22**"
       - "A2 out Sept-22"
@@ -81,8 +81,8 @@ tableRows:
     Week: 6
     Dates: "Sep 25-29"
     Topics:
-      - "[GMM - Part 1](/course/09-gaussian-mixture.pdf) ([*Notes](/course/09-gaussian-mixture-note.pdf) L10)"    
-      - "[GMM - Part 2](/course/09-gaussian-mixture.pdf) ([*Notes](/course/09-gaussian-mixture-note.pdf) L11)"
+      - "[GMM - Part 1](/course/09-gaussian-mixture.pdf) ([Notes](/course/09-gaussian-mixture-note.pdf) L10)"    
+      - "[GMM - Part 2](/course/09-gaussian-mixture.pdf) ([Notes](/course/09-gaussian-mixture-note.pdf) L11)"
       
     Quizzes: "Q5 - L10,11"
     Readings:
@@ -107,8 +107,8 @@ tableRows:
     Week: 8
     Dates: "Oct 9-13"
     Topics:
-      - "[Clustering Eval](/course/12-clustering-evaluation.pdf) ([*Notes](/course/12-clustering-evaluation-note.pdf) L14)"
-      - "[Density Estimation](/course/13-density-estimation.pdf) ([*Notes](/course/13-density-estimation-note.pdf) L15)"
+      - "[Clustering Eval](/course/12-clustering-evaluation.pdf) ([Notes](/course/12-clustering-evaluation-note.pdf) L14)"
+      - "[Density Estimation](/course/13-density-estimation.pdf) ([Notes](/course/13-density-estimation-note.pdf) L15)"
     Quizzes: "Q7 - L14,15"
     Readings:
     - "[KDE interactive visualization](https://mathisonian.github.io/kde/);"
@@ -122,7 +122,7 @@ tableRows:
     Dates: "Oct 16-20"
     Topics:
       - Fall Break (Oct 16-17)
-      - "[Dimension Reduction](/course/14-dimension-reduction.pdf) ([*Notes](/course/14-dimension-reduction-note.pdf) L16)"    
+      - "[Dimension Reduction](/course/14-dimension-reduction.pdf) ([Notes](/course/14-dimension-reduction-note.pdf) L16)"    
     Homework:
       - "**A2 due Oct 20**"
       - "A3 out Oct 20"
@@ -139,8 +139,8 @@ tableRows:
     Week: 10
     Dates: "Oct 23-27"
     Topics:
-      - "[Linear Regression](/course/15-linear-regression.pdf) ([*Notes](/course/15-linear-regression-note.pdf) L17)"
-      - "[LR contd](/course/15-linear-regression.pdf) ([*Notes](/course/15-linear-regression-note.pdf) L18)"    
+      - "[Linear Regression](/course/15-linear-regression.pdf) ([Notes](/course/15-linear-regression-note.pdf) L17)"
+      - "[LR contd](/course/15-linear-regression.pdf) ([Notes](/course/15-linear-regression-note.pdf) L18)"    
     Quizzes: "Q9 - L17,18"
     Readings:
       - "[Simple Linear Regression in Matrix Format](/other/regression-cmu.pdf);"    
@@ -150,16 +150,16 @@ tableRows:
     Week: 11
     Dates: "Oct 30-Nov 3"
     Topics:
-      - "[Regularization](/course/16-regularized-regression.pdf) ([*Notes](/course/16-regularized-regression-note.pdf) L19)"
-      - "[NB &  Logistic Reg](/course/17-logistic-regression.pdf) ([*Notes](/course/17-logistic-regression-note.pdf) L20)"
+      - "[Regularization](/course/16-regularized-regression.pdf) ([Notes](/course/16-regularized-regression-note.pdf) L19)"
+      - "[NB &  Logistic Reg](/course/17-logistic-regression.pdf) ([Notes](/course/17-logistic-regression-note.pdf) L20)"
     Quizzes: "Q10 - L19,20"
 
   - 12:
     Week: 12
     Dates: "Nov 6-10"
     Topics:
-      - "[NB & Logistic Reg](/course/17-logistic-regression.pdf) ([*Notes](/course/17-logistic-regression-note.pdf) L21)"
-      - "[Project Practical Advice](/course/21-practical-advice.pdf) ([*Notes](/course/21-practical-advice-note.pdf) L22)"
+      - "[NB & Logistic Reg](/course/17-logistic-regression.pdf) ([Notes](/course/17-logistic-regression-note.pdf) L21)"
+      - "[Project Practical Advice](/course/21-practical-advice.pdf) ([Notes](/course/21-practical-advice-note.pdf) L22)"
     Homework:
       - "**A3 due Nov 10**"
       - "A4 out Nov 10"      
@@ -172,8 +172,8 @@ tableRows:
     Week: 13
     Dates: "Nov 13-17"
     Topics:
-      - "[Neural Networks](/course/18-neural-network.pdf) ([*Notes](/course/18-neural-network-note.pdf) L23)"
-      - "[NN contd](/course/18-neural-network.pdf) ([*Notes](/course/18-neural-network-note.pdf) L24)"
+      - "[Neural Networks](/course/18-neural-network.pdf) ([Notes](/course/18-neural-network-note.pdf) L23)"
+      - "[NN contd](/course/18-neural-network.pdf) ([Notes](/course/18-neural-network-note.pdf) L24)"
     Quizzes: "Q11 - L23,24"
     Readings:
       - "[NN Playground](https://playground.tensorflow.org/)"
@@ -186,8 +186,8 @@ tableRows:
     Week: 14
     Dates: "Nov 20-24"
     Topics:
-      - "[CNN](/course/19-neural-network-cnn.pdf) ([*Notes](/course/19-neural-network-cnn-note.pdf) L25)"
-      - "[DT](/course/20-decision-tree.pdf) and [*RF](/course/21-ensemble-learning-randomforest.pdf) (*Notes [DT](/course/20-decision-tree-note.pdf) & [*RF](/course/21-ensemble-learning-randomforest-note.pdf), L26)"
+      - "[CNN](/course/19-neural-network-cnn.pdf) ([Notes](/course/19-neural-network-cnn-note.pdf) L25)"
+      - "[DT](/course/20-decision-tree.pdf) and [RF](/course/21-ensemble-learning-randomforest.pdf) (Notes [DT](/course/20-decision-tree-note.pdf) & [RF](/course/21-ensemble-learning-randomforest-note.pdf), L26)"
     Quizzes: "Q12 - L25,26"
     Readings:
       - "[CNN Live Demo](https://cs.stanford.edu/people/karpathy/convnetjs/demo/cifar10.html);"
@@ -200,8 +200,8 @@ tableRows:
     Week: 15
     Dates: "Nov 27-Dec 1"
     Topics:
-      - "[SVM - Part 1](/course/22-svm.pdf) ([*Notes](/course/22-svm-note.pdf), L27)"
-      - "[SVM - Part 2](/course/22-svm.pdf) ([*Notes](/course/22-svm-note.pdf), L28)"
+      - "[SVM - Part 1](/course/22-svm.pdf) ([Notes](/course/22-svm-note.pdf), L27)"
+      - "[SVM - Part 2](/course/22-svm.pdf) ([Notes](/course/22-svm-note.pdf), L28)"
     Homework:
       - "**A4 Due Dec 1**"
     Quizzes: "Q13 - L27,28"
