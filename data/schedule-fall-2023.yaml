@@ -210,7 +210,7 @@ tableRows:
     Week: 16
     Dates: "Dec 4-8"
     Topics:
-      - "[SVM-Kernel](/course/23-svm-kernel.pdf) ([*Notes](/course/23-svm-kernel-note.pdf), L29)"
+      - "[SVM-Kernel](/course/23-svm-kernel.pdf) ([Notes](/course/23-svm-kernel-note.pdf), L29)"
       - "[Ethics in ML](/course/24-ethics.pdf) (L30)"
       - "Final Class days (Dec 4-5)"
 
