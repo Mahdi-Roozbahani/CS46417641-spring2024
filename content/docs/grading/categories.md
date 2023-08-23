@@ -43,7 +43,7 @@ This quiz will test you on the course deadlines and rules. You can simply obtain
 
 ## Quizzes (15%)
 
-There will be 13 quizzes throughout the semester. We will consider your top 10 quizzes’ scores. Each quiz will have 1.50% of your final score.
+There will be 14 quizzes throughout the semester. We will consider your top 10 quizzes’ scores. Each quiz will have 1.50% of your final score.
 
 **All quizzes are mandatory** to be taken even if they do not count toward your final grade. If you miss a quiz, we will deduct your score from your Class Participation score. Let’s say you miss taking one quiz; we will reduce 1.5% from your class participation score. If you miss 3 quizzes, you will lose all your class participation score, which is 4%, and we will NOT go beyond that. (if you miss 4 quizzes, we only deduct 4% from your class participation score, not 6%). Your class participation score can be zero at its lowest, and it won’t go to a negative number.
 

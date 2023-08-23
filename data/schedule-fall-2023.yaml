@@ -38,7 +38,7 @@ tableRows:
       - "[Prob and Stats - contd](/course/04-probability.pdf) ([Notes](/course/04-probability-note.pdf), L5)"
 
     Homework:
-      - "A1 out Sep 4"
+      - "A1 out Sep 5"
     Quizzes: "Q2 - L4,5"
     Readings:
       - "[The Differences Between Data, Information and Knowledge](https://web.archive.org/web/20210107132902/http://www.infogineering.net/data-information-knowledge.htm)"
@@ -163,7 +163,7 @@ tableRows:
     Homework:
       - "**A3 due Nov 10**"
       - "A4 out Nov 10"      
-    Quizzes: "Q10 - L21"
+    Quizzes: "Q11 - L21"
     Project:
       - "Project midpoint report Nov 10"
       - "Peer Evaluation Nov 10"
@@ -174,7 +174,7 @@ tableRows:
     Topics:
       - "[Neural Networks](/course/18-neural-network.pdf) ([Notes](/course/18-neural-network-note.pdf) L23)"
       - "[NN contd](/course/18-neural-network.pdf) ([Notes](/course/18-neural-network-note.pdf) L24)"
-    Quizzes: "Q11 - L23,24"
+    Quizzes: "Q12 - L23,24"
     Readings:
       - "[NN Playground](https://playground.tensorflow.org/)"
       - "[Interactive NN initialization](https://www.deeplearning.ai/ai-notes/initialization/);"
@@ -188,7 +188,7 @@ tableRows:
     Topics:
       - "[CNN](/course/19-neural-network-cnn.pdf) ([Notes](/course/19-neural-network-cnn-note.pdf) L25)"
       - "[DT](/course/20-decision-tree.pdf) and [RF](/course/21-ensemble-learning-randomforest.pdf) (Notes [DT](/course/20-decision-tree-note.pdf) & [RF](/course/21-ensemble-learning-randomforest-note.pdf), L26)"
-    Quizzes: "Q12 - L25,26"
+    Quizzes: "Q13 - L25,26"
     Readings:
       - "[CNN Live Demo](https://cs.stanford.edu/people/karpathy/convnetjs/demo/cifar10.html);"
       - "[A guide to an efficient way to build CNN and optimize its hyper-parameters](https://towardsdatascience.com/a-guide-to-an-efficient-way-to-build-neural-network-architectures-part-ii-hyper-parameter-42efca01e5d7);"
@@ -204,7 +204,7 @@ tableRows:
       - "[SVM - Part 2](/course/22-svm.pdf) ([Notes](/course/22-svm-note.pdf), L28)"
     Homework:
       - "**A4 Due Dec 1**"
-    Quizzes: "Q13 - L27,28"
+    Quizzes: "Q14 - L27,28"
 
   - 16:
     Week: 16
