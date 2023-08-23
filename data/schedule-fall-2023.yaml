@@ -6,7 +6,7 @@ tableRows:
     Topics:
       - "[*Course Overview](/course/01-introduction.pdf) (L1)"
       - "[*Data analysis toolbox - P1](/course/02-numpy_broadcasting_tutorial.ipynb) (L2)"
-    Quizzes: "Q0 - L1,2"
+    Quizzes: "Q0 - L1,2 (Warmup)"
     Readings:
       - "[GT Honor Code](https://policylibrary.gatech.edu/student-affairs/academic-honor-code);"
       - "[Debugging Common Errors in NumPy](/other/Debugging Common Errors in NumPy.ipynb);"
@@ -23,7 +23,7 @@ tableRows:
     Week: 2
     Dates: "Aug 28-Sep 1"
     Topics:
-      - "[Linear Algebra](/course/03-linear-algebra.pdf) ([Notes](/course/03-linear-algebra-note.pdf), L3)"
+      - "[*Linear Algebra](/course/03-linear-algebra.pdf) ([Notes](/course/03-linear-algebra-note.pdf), L3)"
       - "[Prob and Stats](/course/04-probability.pdf) ([Notes](/course/04-probability-note.pdf), L4)"
     Quizzes: "Q1 - L3 & Syllabus Quiz"
     Readings:
