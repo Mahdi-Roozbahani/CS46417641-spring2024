@@ -23,7 +23,7 @@ tableRows:
     Week: 2
     Dates: "Aug 28-Sep 1"
     Topics:
-      - "[*Linear Algebra](/course/03-linear-algebra.pdf) ([Notes](/course/03-linear-algebra-note.pdf), L3)"
+      - "[*Linear Algebra](/course/03-linear-algebra.pdf) ([*Notes](/course/03-linear-algebra-note.pdf), L3)"
       - "[*Prob and Stats](/course/04-probability.pdf) ([Notes](/course/04-probability-note.pdf), L4)"
     Quizzes: "Q1 - L3 & Syllabus Quiz"
     Readings:
@@ -107,27 +107,28 @@ tableRows:
     Week: 8
     Dates: "Oct 9-13"
     Topics:
+      - Fall Break (Oct 9-10)
       - "[Clustering Eval](/course/12-clustering-evaluation.pdf) ([Notes](/course/12-clustering-evaluation-note.pdf) L14)"
-      - "[Density Estimation](/course/13-density-estimation.pdf) ([Notes](/course/13-density-estimation-note.pdf) L15)"
-    Quizzes: "Q7 - L14,15"
+     Quizzes: "Q7 - L14"
     Readings:
-    - "[KDE interactive visualization](https://mathisonian.github.io/kde/);"
-    - "[KDE sampling](https://stats.stackexchange.com/questions/321542/how-can-i-draw-a-value-randomly-from-a-kernel-density-estimate);"
-    - "[KDE SKLearn and sampling](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KernelDensity.html);"
-    - "[Jupyter Notebook Kernel Density Example](/other/06-and-08-plot_dbscan.ipynb);"
+
 
 
   - 9:
     Week: 9
     Dates: "Oct 16-20"
     Topics:
-      - Fall Break (Oct 16-17)
-      - "[Dimension Reduction](/course/14-dimension-reduction.pdf) ([Notes](/course/14-dimension-reduction-note.pdf) L16)"    
+      - "[Density Estimation](/course/13-density-estimation.pdf) ([Notes](/course/13-density-estimation-note.pdf) L15)"    
+      - "[Dimension Reduction](/course/14-dimension-reduction.pdf) ([Notes](/course/14-dimension-reduction-note.pdf) L16)"   
     Homework:
       - "**A2 due Oct 20**"
       - "A3 out Oct 20"
-    Quizzes: "Q8 - L16"
+    Quizzes: "Q8 - L15,16"
     Readings:
+      - "[KDE interactive visualization](https://mathisonian.github.io/kde/);"
+      - "[KDE sampling](https://stats.stackexchange.com/questions/321542/how-can-i-draw-a-value-randomly-from-a-kernel-density-estimate);"
+      - "[KDE SKLearn and sampling](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KernelDensity.html);"
+      - "[Jupyter Notebook Kernel Density Example](/other/06-and-08-plot_dbscan.ipynb);"    
       - "[Image reconstruction using PCA](https://stats.stackexchange.com/questions/229092/how-to-reverse-pca-and-reconstruct-original-variables-from-several-principal-com);"
       - "[Feature extraction using PCA](http://www.visiondummy.com/2014/05/feature-extraction-using-pca/);"
       - "[PCA for images](http://people.ciirc.cvut.cz/~hlavac/TeachPresEn/11ImageProc/15PCA.pdf);"
