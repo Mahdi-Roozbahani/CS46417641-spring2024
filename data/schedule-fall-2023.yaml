@@ -24,7 +24,7 @@ tableRows:
     Dates: "Aug 28-Sep 1"
     Topics:
       - "[*Linear Algebra](/course/03-linear-algebra.pdf) ([*Notes](/course/03-linear-algebra-note.pdf), L3)"
-      - "[*Prob and Stats](/course/04-probability.pdf) ([Notes](/course/04-probability-note.pdf), L4)"
+      - "[*Prob and Stats](/course/04-probability.pdf) ([*Notes](/course/04-probability-note.pdf), L4)"
     Quizzes: "Q1 - L3 & Syllabus Quiz"
     Readings:
       - "[Correlation vs Covariance](https://stats.stackexchange.com/questions/18082/how-would-you-explain-the-difference-between-correlation-and-covariance);"
@@ -35,7 +35,7 @@ tableRows:
     Dates: "Sep 4-8"
     Topics:
       - "Labor Day (Sep 4 - no class for all sections Mon&Tue)"
-      - "[*Prob and Stats - contd](/course/04-probability.pdf) ([Notes](/course/04-probability-note.pdf), L5)"
+      - "[*Prob and Stats - contd](/course/04-probability.pdf) ([*Notes](/course/04-probability-note.pdf), L5)"
 
     Homework:
       - "A1 out Sep 5"
@@ -174,7 +174,7 @@ tableRows:
     Dates: "Nov 13-17"
     Topics:
       - "[Neural Networks](/course/18-neural-network.pdf) ([Notes](/course/18-neural-network-note.pdf) L23)"
-      - "[NN contd](/course/18-neural-network.pdf) ([Notes](/course/18-neural-network-note.pdf) L24)"
+      - "[CNN](/course/19-neural-network-cnn.pdf) ([Notes](/course/19-neural-network-cnn-note.pdf) L24)"
     Quizzes: "Q12 - L23,24"
     Readings:
       - "[NN Playground](https://playground.tensorflow.org/)"
@@ -187,9 +187,9 @@ tableRows:
     Week: 14
     Dates: "Nov 20-24"
     Topics:
-      - "[CNN](/course/19-neural-network-cnn.pdf) ([Notes](/course/19-neural-network-cnn-note.pdf) L25)"
-      - "[DT](/course/20-decision-tree.pdf) and [RF](/course/21-ensemble-learning-randomforest.pdf) (Notes [DT](/course/20-decision-tree-note.pdf) & [RF](/course/21-ensemble-learning-randomforest-note.pdf), L26)"
-    Quizzes: "Q13 - L25,26"
+      - "[DT](/course/20-decision-tree.pdf) and [RF](/course/21-ensemble-learning-randomforest.pdf) (Notes [DT](/course/20-decision-tree-note.pdf) & [RF](/course/21-ensemble-learning-randomforest-note.pdf), L25)"
+      - Student Recess and Thanksgiving break (Nov 22, 23 and 24)
+    Quizzes: "Q13 - L25"
     Readings:
       - "[CNN Live Demo](https://cs.stanford.edu/people/karpathy/convnetjs/demo/cifar10.html);"
       - "[A guide to an efficient way to build CNN and optimize its hyper-parameters](https://towardsdatascience.com/a-guide-to-an-efficient-way-to-build-neural-network-architectures-part-ii-hyper-parameter-42efca01e5d7);"
@@ -201,8 +201,8 @@ tableRows:
     Week: 15
     Dates: "Nov 27-Dec 1"
     Topics:
-      - "[SVM - Part 1](/course/22-svm.pdf) ([Notes](/course/22-svm-note.pdf), L27)"
-      - "[SVM - Part 2](/course/22-svm.pdf) ([Notes](/course/22-svm-note.pdf), L28)"
+      - "[SVM - Part 1](/course/22-svm.pdf) ([Notes](/course/22-svm-note.pdf), L26)"
+      - "[SVM - Part 2](/course/22-svm.pdf) ([Notes](/course/22-svm-note.pdf), L27)"
     Homework:
       - "**A4 Due Dec 1**"
     Quizzes: "Q14 - L27,28"
@@ -211,7 +211,7 @@ tableRows:
     Week: 16
     Dates: "Dec 4-8"
     Topics:
-      - "[SVM-Kernel](/course/23-svm-kernel.pdf) ([Notes](/course/23-svm-kernel-note.pdf), L29)"
+      - "[SVM-Kernel](/course/23-svm-kernel.pdf) ([Notes](/course/23-svm-kernel-note.pdf), L28)"
       - "[Ethics in ML](/course/24-ethics.pdf) (L30)"
       - "Final Class days (Dec 4-5)"
 
