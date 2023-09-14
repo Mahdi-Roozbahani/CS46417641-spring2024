@@ -52,7 +52,7 @@ tableRows:
     Dates: "Sep 11-15"
     Topics:
       - "[*Info Theory](/course/05-info-theory.pdf) ([*Notes](/course/05-info-theory-note.pdf), L6)"
-      - "[Optimization](/course/06-optimization.pdf) (L7)"
+      - "[*Optimization](/course/06-optimization.pdf) (L7)"
     Quizzes: "Q3 - L6,7"
     Project:
       - "Project team composition due Sep 16"
