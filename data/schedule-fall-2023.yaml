@@ -67,8 +67,8 @@ tableRows:
     Week: 5
     Dates: "Sep 18-22"
     Topics:
-      - "[Toolbox - P2](/course/02-numpy_broadcasting_tutorial.ipynb) (L8)"    
-      - "[Clustering & K-Means](/course/08-clustering.pdf) ([Notes](/course/08-clustering-note.pdf) L9)"
+      - "[*Toolbox - P2](/course/02-numpy_broadcasting_tutorial.ipynb) (L8)"    
+      - "[*Clustering & K-Means](/course/08-clustering.pdf) ([Notes](/course/08-clustering-note.pdf) L9)"
     Homework:
       - "**A1 due Sept-22**"
       - "A2 out Sept-22"
