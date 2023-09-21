@@ -68,7 +68,7 @@ tableRows:
     Dates: "Sep 18-22"
     Topics:
       - "[*Toolbox - P2](/course/02-numpy_broadcasting_tutorial.ipynb) (L8)"    
-      - "[*Clustering & K-Means](/course/08-clustering.pdf) ([Notes](/course/08-clustering-note.pdf) L9)"
+      - "[*Clustering & K-Means](/course/08-clustering.pdf) ([*Notes](/course/08-clustering-note.pdf) L9)"
     Homework:
       - "**A1 due Sept-22**"
       - "A2 out Sept-22"
@@ -92,8 +92,8 @@ tableRows:
     Week: 7
     Dates: "Oct 2-6"
     Topics:
-      - "[Hierarchical Clustering](/course/10-hierarchical-clustering.pdf) ([*Notes](/course/10-hierarchical-clustering-note.pdf) L12)"
-      - "[DB SCAN](/course/11-density-clustering.pdf) ([*Notes](/course/11-density-clustering-note.pdf) L13)"
+      - "[Hierarchical Clustering](/course/10-hierarchical-clustering.pdf) ([Notes](/course/10-hierarchical-clustering-note.pdf) L12)"
+      - "[DB SCAN](/course/11-density-clustering.pdf) ([Notes](/course/11-density-clustering-note.pdf) L13)"
     Quizzes: "Q6 - L12,13"
     Project:
       - "Project proposal due Oct 6"
