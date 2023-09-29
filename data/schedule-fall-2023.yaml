@@ -81,8 +81,8 @@ tableRows:
     Week: 6
     Dates: "Sep 25-29"
     Topics:
-      - "[*GMM - Part 1](/course/09-gaussian-mixture.pdf) ([Notes](/course/09-gaussian-mixture-note.pdf) L10)"    
-      - "[*GMM - Part 2](/course/09-gaussian-mixture.pdf) ([Notes](/course/09-gaussian-mixture-note.pdf) L11)"
+      - "[*GMM - Part 1](/course/09-gaussian-mixture.pdf) ([*Notes](/course/09-gaussian-mixture-note.pdf) L10)"    
+      - "[*GMM - Part 2](/course/09-gaussian-mixture.pdf) ([*Notes](/course/09-gaussian-mixture-note.pdf) L11)"
       
     Quizzes: "Q5 - L10,11"
     Readings:
