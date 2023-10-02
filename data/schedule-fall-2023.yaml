@@ -92,8 +92,8 @@ tableRows:
     Week: 7
     Dates: "Oct 2-6"
     Topics:
-      - "[Hierarchical Clustering](/course/10-hierarchical-clustering.pdf) ([Notes](/course/10-hierarchical-clustering-note.pdf) L12)"
-      - "[DB SCAN](/course/11-density-clustering.pdf) ([Notes](/course/11-density-clustering-note.pdf) L13)"
+      - "[*Hierarchical Clustering](/course/10-hierarchical-clustering.pdf) ([Notes](/course/10-hierarchical-clustering-note.pdf) L12)"
+      - "[*DB SCAN](/course/11-density-clustering.pdf) ([Notes](/course/11-density-clustering-note.pdf) L13)"
     Quizzes: "Q6 - L12,13"
     Project:
       - "Project proposal due Oct 6"
@@ -108,7 +108,7 @@ tableRows:
     Dates: "Oct 9-13"
     Topics:
       - Fall Break (Oct 9-10)
-      - "[Clustering Eval](/course/12-clustering-evaluation.pdf) ([Notes](/course/12-clustering-evaluation-note.pdf) L14)"
+      - "[*Clustering Eval](/course/12-clustering-evaluation.pdf) ([Notes](/course/12-clustering-evaluation-note.pdf) L14)"
     Quizzes: "Q7 - L14"
     Readings:
 
