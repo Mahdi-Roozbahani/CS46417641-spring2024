@@ -92,7 +92,7 @@ tableRows:
     Week: 7
     Dates: "Oct 2-6"
     Topics:
-      - "[*Hierarchical Clustering](/course/10-hierarchical-clustering.pdf) ([Notes](/course/10-hierarchical-clustering-note.pdf) L12)"
+      - "[*Hierarchical Clustering](/course/10-hierarchical-clustering.pdf) ([*Notes](/course/10-hierarchical-clustering-note.pdf) L12)"
       - "[*DB SCAN](/course/11-density-clustering.pdf) ([Notes](/course/11-density-clustering-note.pdf) L13)"
     Quizzes: "Q6 - L12,13"
     Project:
