@@ -118,7 +118,7 @@ tableRows:
     Week: 9
     Dates: "Oct 16-20"
     Topics:
-      - "[*Density Estimation](/course/13-density-estimation.pdf) ([Notes](/course/13-density-estimation-note.pdf) L15)"    
+      - "[*Density Estimation](/course/13-density-estimation.pdf) ([*Notes](/course/13-density-estimation-note.pdf) L15)"    
       - "[*Dimension Reduction](/course/14-dimension-reduction.pdf) ([Notes](/course/14-dimension-reduction-note.pdf) L16)"   
     Homework:
       - "**A2 due Oct 20**"
@@ -140,8 +140,8 @@ tableRows:
     Week: 10
     Dates: "Oct 23-27"
     Topics:
-      - "[Linear Regression](/course/15-linear-regression.pdf) ([Notes](/course/15-linear-regression-note.pdf) L17)"
-      - "[LR contd](/course/15-linear-regression.pdf) ([Notes](/course/15-linear-regression-note.pdf) L18)"    
+      - "[*Linear Regression](/course/15-linear-regression.pdf) ([Notes](/course/15-linear-regression-note.pdf) L17)"
+      - "[*LR contd](/course/15-linear-regression.pdf) ([Notes](/course/15-linear-regression-note.pdf) L18)"    
     Quizzes: "Q9 - L17,18"
     Readings:
       - "[Simple Linear Regression in Matrix Format](/other/regression-cmu.pdf);"    
