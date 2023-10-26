@@ -140,8 +140,8 @@ tableRows:
     Week: 10
     Dates: "Oct 23-27"
     Topics:
-      - "[*Linear Regression](/course/15-linear-regression.pdf) ([Notes](/course/15-linear-regression-note.pdf) L17)"
-      - "[*LR contd](/course/15-linear-regression.pdf) ([Notes](/course/15-linear-regression-note.pdf) L18)"    
+      - "[*Linear Regression](/course/15-linear-regression.pdf) ([*Notes](/course/15-linear-regression-note.pdf) L17)"
+      - "[*LR contd](/course/15-linear-regression.pdf) ([*Notes](/course/15-linear-regression-note.pdf) L18)"    
     Quizzes: "Q9 - L17,18"
     Readings:
       - "[Simple Linear Regression in Matrix Format](/other/regression-cmu.pdf);"    
