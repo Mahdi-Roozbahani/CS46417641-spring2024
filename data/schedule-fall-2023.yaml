@@ -152,15 +152,15 @@ tableRows:
     Dates: "Oct 30-Nov 3"
     Topics:
       - "[*Regularization](/course/16-regularized-regression.pdf) ([Notes](/course/16-regularized-regression-note.pdf) L19)"
-      - "[NB &  Logistic Reg](/course/17-logistic-regression.pdf) ([Notes](/course/17-logistic-regression-note.pdf) L20)"
+      - "[*NB &  Logistic Reg](/course/17-logistic-regression.pdf) ([Notes](/course/17-logistic-regression-note.pdf) L20)"
     Quizzes: "Q10 - L19,20"
 
   - 12:
     Week: 12
     Dates: "Nov 6-10"
     Topics:
-      - "[NB & Logistic Reg](/course/17-logistic-regression.pdf) ([Notes](/course/17-logistic-regression-note.pdf) L21)"
-      - "[Project Practical Advice](/course/21-practical-advice.pdf) ([Notes](/course/21-practical-advice-note.pdf) L22)"
+      - "[*NB & Logistic Reg](/course/17-logistic-regression.pdf) ([Notes](/course/17-logistic-regression-note.pdf) L21)"
+      - "[*Project Practical Advice](/course/21-practical-advice.pdf)"
     Homework:
       - "**A3 due Nov 10**"
       - "A4 out Nov 10"      
