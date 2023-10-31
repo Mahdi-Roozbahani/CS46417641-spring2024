@@ -151,7 +151,7 @@ tableRows:
     Week: 11
     Dates: "Oct 30-Nov 3"
     Topics:
-      - "[*Regularization](/course/16-regularized-regression.pdf) ([Notes](/course/16-regularized-regression-note.pdf) L19)"
+      - "[*Regularization](/course/16-regularized-regression.pdf) ([*Notes](/course/16-regularized-regression-note.pdf) L19)"
       - "[*NB &  Logistic Reg](/course/17-logistic-regression.pdf) ([Notes](/course/17-logistic-regression-note.pdf) L20)"
     Quizzes: "Q10 - L19,20"
 
