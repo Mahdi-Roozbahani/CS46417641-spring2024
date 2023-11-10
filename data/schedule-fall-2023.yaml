@@ -173,7 +173,7 @@ tableRows:
     Week: 13
     Dates: "Nov 13-17"
     Topics:
-      - "[*Neural Networks](/course/18-neural-network.pdf) ([Notes](/course/18-neural-network-note.pdf) L23)"
+      - "[*Neural Networks](/course/18-neural-network.pdf) ([*Notes](/course/18-neural-network-note.pdf) L23)"
       - "[*CNN](/course/19-neural-network-cnn.pdf) ([Notes](/course/19-neural-network-cnn-note.pdf) L24)"
     Quizzes: "Q12 - L23,24"
     Readings:
