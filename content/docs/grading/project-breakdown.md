@@ -18,13 +18,13 @@ The primary goal of the proposal is to identify a problem that can be solved wit
     ```✅ Literature Review ✅ Dataset Description ✅ Dataset Link (if applicable)```
 
 2. <u>Problem definition:</u> Identify a problem and motivate the need for a solution. \
-    ```✅ Problem Identified ✅ Project Motivation```
+    ```✅ Problem ✅ Motivation```
 
 3. <u>Methods:</u> Present proposed solutions including specific data processing methods and machine learning algorithms, and elaborate on why you think each will be effective. It is recommended to identify specific functions/classes in existing packages and libraries (i.e. [scikit-learn](https://scikit-learn.org/stable/)) rather than coding the algorithms from scratch. *Note: Methods may change after the proposal.* \
     ```✅ 3+ Data Preprocessing Methods ✅ 3+ ML Algorithms/Models```
 
-4. <u>*Potential* Results and Discussion:</u> Identify quantitative metrics you plan to use for the project (i.e. [ML Metrics](https://scikit-learn.org/stable/modules/model_evaluation.html)). Present goals for the project in terms of these metrics, and state any expected results. *Note: Results may change after the proposal.* \
-    ```✅ 3+ Quantitative Metrics ✅ Quantifiable Project Goals ✅ Expected Results```
+4. <u>*Potential* Results and Discussion:</u> Identify quantitative metrics you plan to use for the project (i.e. [ML Metrics](https://scikit-learn.org/stable/modules/model_evaluation.html)). Present goals in terms of these metrics, and state any expected results. *Note: Results may change after the proposal.* \
+    ```✅ 3+ Quantitative Metrics ✅ Project Goals ✅ Expected Results```
 
 5. <u>References:</u> Cite relevant papers and articles utilizing the [IEEE format](https://pitt.libguides.com/citationhelp/ieee). All reference in this section must have a matching in-text citation in the body of your proposal text. \
     ```✅ 3+ References (preferably peer reviewed) ✅ 1+ In-Text Citation Per Reference```
