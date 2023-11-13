@@ -30,7 +30,7 @@ The primary goal of the proposal is to identify a problem that can be solved wit
     ```✅ 3+ References (preferably peer reviewed) ✅ 1+ In-Text Citation Per Reference```
 
 ### Proposal Submission Requirements
-**1. GitHub Page:** The proposal must be less than 500 words and written on a website hosted with [GitHub Pages](https://pages.github.com/). Only sections (1) through (4) from above count towards the word limit. In addition to the 5 proposal sections, please provide:
+**1. Report:** The proposal must be less than 500 words and written on a website hosted with [GitHub Pages](https://pages.github.com/) or [Streamlit](https://streamlit.io/). Only sections (1) through (4) from above count towards the word limit. In addition to the 5 proposal sections, please provide:
 - A Gantt Chart listing each members’ planned responsibilities for the entirety of the project. [Fall and Spring semester sample Gantt Chart](/other/GanttChart.xlsx).
 - A contribution table in the format below listing all group members’ names and explicit contributions in preparing the proposal.
 |Name   |Proposal Contributions|
