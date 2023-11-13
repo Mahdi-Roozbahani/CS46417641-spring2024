@@ -6,28 +6,42 @@ title: "Project Breakdown"
 
 # Project Breakdown
 
-The course semester long project is worth 30% of your grade, and is composed of the parts below
+The course semester long project is worth 30% of your grade, and is composed of the parts below.
 
 ## Proposal (5%)
 
-A project proposal should be written on your GitHub page. It is also a good starter to come up with the first draft of your project.
+The primary goal of the proposal is to identify a problem that can be solved with machine learning. This entails finding and/or creating a dataset that can be used to make predictions as well as developing a plan for the rest of the semester.
 
-You need to provide us the link to your GitHub page. Make sure your GitHub repository is private.
+### The Proposal Contains 5 Sections
 
-It should be less than 500 words single spaced. References are not the part of the word count.
+1. <u>Introduction/Background:</u> Provide an introduction of your topic and literature review of related work. Briefly explain your dataset and its features, and provide a link to the dataset if possible. \
+    ```✅ Literature Review ✅ Dataset Description ✅ Dataset Link (if applicable)```
 
-A project proposal should include:
+2. <u>Problem definition:</u> Identify a problem and motivate the need for a solution. \
+    ```✅ Problem Identified ✅ Project Motivation```
 
-- Introduction/Background: A quick introduction of your topic and mostly literature review of what has been done in this area. You can briefly explain your dataset and its features here too.
-- Problem definition: Why there is a problem here or what is the motivation of the project?
-- Methods: What algorithms or methods are you going to use to solve the problems. (Note: Methods may change when you start implementing them which is fine). Students are encouraged to use existing packages and libraries (i.e. [scikit-learn](https://scikit-learn.org/stable/)) instead of coding the algorithms from scratch.
-- Potential results and Discussion (The results may change while you are working on the project and it is fine; that’s why it is called research). A good way to talk about potential results is to discuss about what type of quantitative metrics your team plan to use for the project (i.e. [ML Metrics](https://scikit-learn.org/stable/modules/model_evaluation.html)).
-- At least three references (preferably peer reviewed). You need to properly cite the references on your proposal. This part does NOT count towards word limit.
-- Add proposed timeline from start to finish and list each project members’ responsibilities. [Fall and Spring semester sample Gantt Chart](/other/GanttChart.xlsx). This part does NOT count towards word limit.
-- A contribution table with all group members’ names that explicitly provides the contribution of each member in preparing the project task. This part does NOT count towards word limit.
-- A checkpoint to make sure you are working on a proper machine learning related project. You are required to have your dataset ready when you submit your proposal. You can change dataset later. However, you are required to provide some reasonings why you need to change the dataset (i.e. dataset is not large enough because it does not provide us a good accuracy comparing to other dataset; we provided accuracy comparison between these two datasets). The reasonings can be added as a section to your future project reports such as midterm report.
-- Your group needs to submit a presentation of your proposal. Please provide us a public link which includes a 3 minutes recorded video. I found that [OBS Studio](https://obsproject.com/) and [GT subscribed Kaltura](https://corp.kaltura.com/) are good tools to record your screen. Please make your visuals are clearly visible in your video presentation.
-- 3 MINUTE is a hard stop. We will NOT accept submissions which are 3 minutes and one second or above. Conveying the message easily while being concise is not easy and it is a great soft skill for any stage of your life, especially your work life.
+3. <u>Methods:</u> Present proposed solutions including specific data processing methods and machine learning algorithms, and elaborate on why you think each will be effective. It is recommended to identify specific functions/classes in existing packages and libraries (i.e. [scikit-learn](https://scikit-learn.org/stable/)) rather than coding the algorithms from scratch. *Note: Methods may change after the proposal.* \
+    ```✅ 3+ Data Preprocessing Methods ✅ 3+ ML Algorithms/Models```
+
+4. <u>*Potential* Results and Discussion:</u> Identify quantitative metrics you plan to use for the project (i.e. [ML Metrics](https://scikit-learn.org/stable/modules/model_evaluation.html)). Present goals for the project in terms of these metrics, and state any expected results. *Note: Results may change after the proposal.* \
+    ```✅ 3+ Quantitative Metrics ✅ Quantifiable Project Goals ✅ Expected Results```
+
+5. <u>References:</u> Cite relevant papers and articles utilizing the [IEEE format](https://pitt.libguides.com/citationhelp/ieee). All reference in this section must have a matching in-text citation in the body of your proposal text. \
+    ```✅ 3+ References (preferably peer reviewed) ✅ 1+ In-Text Citation Per Reference```
+
+### Proposal Submission Requirements
+**1. GitHub Page:** The proposal must be less than 500 words and written on a website hosted with [GitHub Pages](https://pages.github.com/). Only sections (1) through (4) from above count towards the word limit. In addition to the 5 proposal sections, please provide:
+- A Gantt Chart listing each members’ planned responsibilities for the entirety of the project. [Fall and Spring semester sample Gantt Chart](/other/GanttChart.xlsx).
+- A contribution table in the format below listing all group members’ names and explicit contributions in preparing the proposal
+|Name   |Proposal Contributions|
+|-------|----------------------|
+|Member1|Contributions         |
+|Member2|Contributions         |
+|...    |...                   |
+
+**2. Video Presentation:** A 3 minute recorded video presentation of your proposal using Microsoft PowerPoint, Google Slides, or equivalent. [OBS Studio](https://obsproject.com/) and [Kaltura](https://corp.kaltura.com/) are examples of effective screen-recording tools. 3 minutes is a hard stop. We will NOT accept submissions which are over this time limit. Some additional guidelines are:
+- You must employ effective slide design which incorporates visuals that are interpretable and legible. Any visuals that are blurry, cut-off, or contain illegible text will not be considered.
+- Not all group members need to participate in the recording.
 
 ## Midterm Report (10%)
 
