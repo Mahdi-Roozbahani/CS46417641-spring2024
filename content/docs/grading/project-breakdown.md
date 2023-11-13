@@ -32,12 +32,14 @@ The primary goal of the proposal is to identify a problem that can be solved wit
 ### Proposal Submission Requirements
 **1. GitHub Page:** The proposal must be less than 500 words and written on a website hosted with [GitHub Pages](https://pages.github.com/). Only sections (1) through (4) from above count towards the word limit. In addition to the 5 proposal sections, please provide:
 - A Gantt Chart listing each members’ planned responsibilities for the entirety of the project. [Fall and Spring semester sample Gantt Chart](/other/GanttChart.xlsx).
-- A contribution table in the format below listing all group members’ names and explicit contributions in preparing the proposal
+- A contribution table in the format below listing all group members’ names and explicit contributions in preparing the proposal.
 |Name   |Proposal Contributions|
 |-------|----------------------|
 |Member1|Contributions         |
 |Member2|Contributions         |
 |...    |...                   |
+
+Lastly, if you are hosting your code on GitHub, set your repository to private.
 
 **2. Video Presentation:** A 3 minute recorded video presentation of your proposal using Microsoft PowerPoint, Google Slides, or equivalent. [OBS Studio](https://obsproject.com/) and [Kaltura](https://corp.kaltura.com/) are examples of effective screen-recording tools. 3 minutes is a hard stop. We will NOT accept submissions which are over this time limit. Some additional guidelines are:
 - You must employ effective slide design which incorporates visuals that are interpretable and legible. Any visuals that are blurry, cut-off, or contain illegible text will not be considered.
