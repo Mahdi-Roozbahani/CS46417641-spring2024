@@ -12,7 +12,7 @@ The course semester long project is worth 30% of your grade, and is composed of 
 
 The primary goal of the proposal is to identify a problem that can be solved with machine learning. This entails finding and/or creating a dataset that can be used to make predictions as well as developing a plan for the rest of the semester.
 
-### The Proposal Contains 5 Sections
+### Proposal Sections & Checklist
 
 1. <u>Introduction/Background:</u> Provide an introduction of your topic and literature review of related work. Briefly explain your dataset and its features, and provide a link to the dataset if possible. \
     ```✅ Literature Review ✅ Dataset Description ✅ Dataset Link (if applicable)```
