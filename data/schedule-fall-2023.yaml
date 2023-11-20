@@ -201,8 +201,8 @@ tableRows:
     Week: 15
     Dates: "Nov 27-Dec 1"
     Topics:
-      - "[SVM - Part 1](/course/22-svm.pdf) ([Notes](/course/22-svm-note.pdf), L26)"
-      - "[SVM - Part 2](/course/22-svm.pdf) ([Notes](/course/22-svm-note.pdf), L27)"
+      - "[*SVM - Part 1](/course/22-svm.pdf) ([Notes](/course/22-svm-note.pdf), L26)"
+      - "[*SVM - Part 2](/course/22-svm.pdf) ([Notes](/course/22-svm-note.pdf), L27)"
     Homework:
       - "**A4 Due Dec 1**"
     Quizzes: "Q14 - L27,28"
@@ -211,8 +211,8 @@ tableRows:
     Week: 16
     Dates: "Dec 4-8"
     Topics:
-      - "[SVM-Kernel](/course/23-svm-kernel.pdf) ([Notes](/course/23-svm-kernel-note.pdf), L28)"
-      - "[Ethics in ML](/course/24-ethics.pdf) (L30)"
+      - "[*SVM-Kernel](/course/23-svm-kernel.pdf) ([Notes](/course/23-svm-kernel-note.pdf), L28)"
+      - "[*Ethics in ML](/course/24-ethics.pdf) (L30)"
       - "Final Class days (Dec 4-5)"
 
     Quizzes: ""
