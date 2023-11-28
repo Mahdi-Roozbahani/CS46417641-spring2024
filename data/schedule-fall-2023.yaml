@@ -201,8 +201,8 @@ tableRows:
     Week: 15
     Dates: "Nov 27-Dec 1"
     Topics:
-      - "[*SVM - Part 1](/course/22-svm.pdf) ([Notes](/course/22-svm-note.pdf), L26)"
-      - "[*SVM - Part 2](/course/22-svm.pdf) ([Notes](/course/22-svm-note.pdf), L27)"
+      - "[*SVM - Part 1](/course/22-svm.pdf) ([*Notes](/course/22-svm-note.pdf), L26)"
+      - "[*SVM - Part 2](/course/22-svm.pdf) ([*Notes](/course/22-svm-note.pdf), L27)"
     Homework:
       - "**A4 Due Dec 1**"
     Quizzes: "Q14 - L27,28"
