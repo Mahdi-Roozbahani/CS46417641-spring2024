@@ -24,7 +24,11 @@ people:
     name: "Will Spaeth"
     email: jspaeth7@gatech.edu
     picture: /profiles/ws.png
-  - 6:
-    name: "Bryan Zhao"
-    email: bzhao90@gatech.edu
-    picture: /profiles/bz.png
+  # - 6:
+    # name: "Bryan Zhao"
+    # email: bzhao90@gatech.edu
+    # picture: /profiles/bz.png
+  - 7:
+    name: "Mohammad Taher"
+    email: "mtaher3@gatech.edu"
+    picture: "/profiles/mt.png"
