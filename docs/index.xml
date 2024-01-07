@@ -50,13 +50,6 @@
       <description>Office Hours # Overview # Office hours will start on the second week of classes in a hybrid mode for both online and in-person. Please follow the instruction on this Excel Sheet [Grad|Undergrad] ​to signup for a 15-minutes slot with one of the TAs. You need to add your name and question of interest. If you require more than 15 minutes, please advise the TAs.&#xA;Be aware that some TAs have physical hours while others have virtual hours.</description>
     </item>
     <item>
-      <title>Project Breakdown</title>
-      <link>/docs/grading/project-breakdown/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/docs/grading/project-breakdown/</guid>
-      <description>Project Breakdown # The course semester long project is worth 30% of your grade, and is composed of the parts below&#xA;Proposal (5%) # A project proposal should be written on your GitHub page. It is also a good starter to come up with the first draft of your project.&#xA;You need to provide us the link to your GitHub page. Make sure your GitHub repository is private.&#xA;It should be less than 500 words single spaced.</description>
-    </item>
-    <item>
       <title>Course Schedule</title>
       <link>/docs/course-info/course-schedule/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -69,6 +62,27 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/docs/guidelines/diversity-and-inclusion/</guid>
       <description>Diversity &amp;amp; Inclusion # Just as machine learning algorithms cannot accomplish complex tasks if trained on datasets of limited variability, our course cannot be successful without appreciating the diversity of our students. In this class we aim to create an environment where all voices are valued, respecting the diversity of gender, sexuality, age, socioeconomic status, ability, ethnicity, race, and culture. We always welcome suggestions that can help us achieve this goal.</description>
+    </item>
+    <item>
+      <title>Proposal</title>
+      <link>/docs/grading/project-breakdown/proposal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/docs/grading/project-breakdown/proposal/</guid>
+      <description>Proposal (5%) # The primary goal of the proposal is to identify a problem that can be solved with machine learning. This includes finding and/or creating a dataset as well as developing a plan for the semester.&#xA;Note: As part of research, it is natural that the project may change from the original proposed. Please be sure to document and justify these changes in the midterm and final report.</description>
+    </item>
+    <item>
+      <title>Midterm Checkpoint</title>
+      <link>/docs/grading/project-breakdown/midterm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/docs/grading/project-breakdown/midterm/</guid>
+      <description>Midterm Checkpoint (10%) # This is a checkpoint to make sure that you have had major progress in your project. By this point, at least one machine learning model should be implemented and evaluated. Results should be presented using visualizations and quantitative metrics. You will add information to your proposal to create your midterm report.&#xA;Note: As part of research, it is natural that the project may change from the original proposed.</description>
+    </item>
+    <item>
+      <title>Final Report</title>
+      <link>/docs/grading/project-breakdown/final/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/docs/grading/project-breakdown/final/</guid>
+      <description>Final Report (15%) # The final report should present and compare at least 3 models that you have developed throughout the semester. Results should be presented using visualizations and quantitative metrics with a heavy focus on comparing the performance and tradeoffs of each approach. You will add information to your midterm to create your final report.&#xA;Note: As part of research, it is natural that the project may change from the original proposed.</description>
     </item>
     <item>
       <title></title>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Project Breakdown on Class Homepage</title>
+    <link>/docs/grading/project-breakdown/</link>
+    <description>Recent content in Project Breakdown on Class Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/docs/grading/project-breakdown/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Proposal</title>
+      <link>/docs/grading/project-breakdown/proposal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/docs/grading/project-breakdown/proposal/</guid>
+      <description>Proposal (5%) # The primary goal of the proposal is to identify a problem that can be solved with machine learning. This includes finding and/or creating a dataset as well as developing a plan for the semester.&#xA;Note: As part of research, it is natural that the project may change from the original proposed. Please be sure to document and justify these changes in the midterm and final report.</description>
+    </item>
+    <item>
+      <title>Midterm Checkpoint</title>
+      <link>/docs/grading/project-breakdown/midterm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/docs/grading/project-breakdown/midterm/</guid>
+      <description>Midterm Checkpoint (10%) # This is a checkpoint to make sure that you have had major progress in your project. By this point, at least one machine learning model should be implemented and evaluated. Results should be presented using visualizations and quantitative metrics. You will add information to your proposal to create your midterm report.&#xA;Note: As part of research, it is natural that the project may change from the original proposed.</description>
+    </item>
+    <item>
+      <title>Final Report</title>
+      <link>/docs/grading/project-breakdown/final/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/docs/grading/project-breakdown/final/</guid>
+      <description>Final Report (15%) # The final report should present and compare at least 3 models that you have developed throughout the semester. Results should be presented using visualizations and quantitative metrics with a heavy focus on comparing the performance and tradeoffs of each approach. You will add information to your midterm to create your final report.&#xA;Note: As part of research, it is natural that the project may change from the original proposed.</description>
+    </item>
+  </channel>
+</rss>
