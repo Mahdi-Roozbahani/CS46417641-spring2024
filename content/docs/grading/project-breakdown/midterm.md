@@ -1,23 +1,22 @@
 ---
-weight: 4
+weight: 2
 bookFlatSection: false
 title: "Midterm Checkpoint"
 ---
 
 ## Midterm Checkpoint (10%)
 
-This is a checkpoint to make sure that you have had major progress in your project. By this point, at least one machine learning model should be implemented and evaluated. Results should be presented using visualizations and quantitative metrics. You will add information to your [proposal](proposal) to create your midterm report.
+This is a checkpoint to make sure that you have had major progress in your project. By this point, at least one machine learning model should be implemented and evaluated. Results should be presented using visualizations and quantitative metrics. You will add information to your [proposal](#proposal-5) to create your midterm report.
 
 *Note: As part of research, it is natural that the project may change from the original proposed. Please be sure to document and justify any such changes in this report.*
 
 ### Midterm Sections & Checklist
 
-1. <u>Introduction/Background</u>: refer to guidance from the [proposal checklist](proposal#proposal-sections--checklist)
+1. <u>Introduction/Background</u>: refer to guidance from the [proposal checklist](../proposal/#proposal-sections--checklist)
 
-2. <u>Problem Definition</u>: refer to guidance from the [proposal checklist](proposal#proposal-sections--checklist)
+2. <u>Problem Definition</u>: refer to guidance from the [proposal checklist](../proposal/#proposal-sections--checklist)
 
 3. <u>Methods</u>: Present at least one implemented solution including specific data processing method(s) and machine learning algorithm(s). Explain why your chosen model(s) and method(s) were selected.
-
     ```
     ✅1+ Data Preprocessing Method Implemented
     ✅1+ ML Algorithms/Models Implemented
@@ -26,7 +25,6 @@ This is a checkpoint to make sure that you have had major progress in your proje
     ```
 
 4. <u>Results and Discussion</u>: Discuss the results of your methods and present visualizations and quantitative scoring metrics. What does your visualization/metric tell you? Why did your model perform well/poorly? What are the next steps you plan to take?
-
     ```
     ✅Visualizations
     ✅Quantitative Metrics
@@ -34,7 +32,7 @@ This is a checkpoint to make sure that you have had major progress in your proje
     ✅Next Steps
     ```
 
-5. <u>References</u>: refer to guidance from the [proposal checklist](proposal#proposal-sections--checklist)
+5. <u>References</u>: refer to guidance from the [proposal checklist](../proposal/#proposal-sections--checklist)
 
 ### Midterm Submission Requirements
 **1. Report:** The midterm report must be written on a website hosted with [GitHub Pages](https://pages.github.com/). There is no word limitation for this deliverable. Reuse your proposal and make necessary updates and/or additions.

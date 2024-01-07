@@ -1,5 +1,5 @@
 ---
-weight: 3
+weight: 1
 bookFlatSection: false
 title: "Proposal"
 ---
@@ -13,7 +13,6 @@ The primary goal of the proposal is to identify a problem that can be solved wit
 ### Proposal Sections & Checklist
 
 1. <u>Introduction/Background</u>: Provide an introduction of your topic and literature review of related work. Briefly explain your dataset and its features, and provide a link to the dataset if possible.
-
     ```
     ✅Literature Review
     ✅Dataset Description
@@ -21,14 +20,12 @@ The primary goal of the proposal is to identify a problem that can be solved wit
     ```
 
 2. <u>Problem Definition</u>: Identify a problem and motivate the need for a solution.
-
     ```
     ✅Problem
     ✅Motivation
     ```
 
 3. <u>Methods</u>: Present proposed solutions including specific data processing methods and machine learning algorithms, and elaborate on why you think each will be effective. It is recommended to identify specific functions/classes in existing packages and libraries (i.e. [scikit-learn](https://scikit-learn.org/stable/)) rather than coding the algorithms from scratch.
-
     ```
     ✅3+ Data Preprocessing Methods Identified
     ✅3+ ML Algorithms/Models Identified
@@ -37,7 +34,6 @@ The primary goal of the proposal is to identify a problem that can be solved wit
     ```
 
 4. <u>(Potential) Results and Discussion</u>: Identify several quantitative metrics you plan to use for the project (i.e. [ML Metrics](https://scikit-learn.org/stable/modules/model_evaluation.html)). Present goals in terms of these metrics, and state any expected results.
-
     ```
     ✅3+ Quantitative Metrics
     ✅Project Goals
@@ -45,7 +41,6 @@ The primary goal of the proposal is to identify a problem that can be solved wit
     ```
 
 5. <u>References</u>: Cite relevant papers and articles utilizing the [IEEE format](https://pitt.libguides.com/citationhelp/ieee). All reference in this section must have a matching in-text citation in the body of your proposal text.
-
     ```
     ✅3+ References (preferably peer reviewed)
     ✅1+ In-Text Citation Per Reference

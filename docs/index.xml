@@ -36,11 +36,25 @@
       <description>General # Attendance # Our class will be offered on campus for both Undergrad (4641) and Grad (7641). Lectures might be recorded IF class has the recording system. Any class that I am able to record [which sometimes does not work even if we have the recording system in place], I will make it available to all students (both undergrad and grad) by the end of the day. The attendance is required for both undergrad and grad.</description>
     </item>
     <item>
+      <title>Proposal</title>
+      <link>/docs/grading/project-breakdown/proposal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/docs/grading/project-breakdown/proposal/</guid>
+      <description>Proposal (5%) # The primary goal of the proposal is to identify a problem that can be solved with machine learning. This includes finding and/or creating a dataset as well as developing a plan for the semester.&#xA;Note: As part of research, it is natural that the project may change from the original proposed. Please be sure to document and justify these changes in the midterm and final report.</description>
+    </item>
+    <item>
       <title>Instructor and TAs</title>
       <link>/docs/course-info/instructors-and-tas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/docs/course-info/instructors-and-tas/</guid>
       <description>Instructors and TAs # Instructor # Max Mahdi Roozbahani mahdir@gatech.edu https://mahdi-roozbahani.github.io/ Head TAs # Gururaj Deshpande gurudesh@gatech.edu Will Spaeth jspaeth7@gatech.edu Mohammad Taher mtaher3@gatech.edu TAs # Krish Nathan knathan8@gatech.edu Ziyuan Cao zcao300@gatech.edu Luting Wang lwang797@gatech.edu Nouf Al Soghyar nsoghyar3@gatech.edu William Runyon wrunyon3@gatech.edu Madhuri Singh msingh365@gatech.edu Parisa Babolhavaeji pbabolhavaeji3@gatech.edu Andrew H Zhang azhang377@gatech.edu David Williams dwilliams402@gatech.edu Gautam Ramesh gramesh32@gatech.edu Harsha D Karanth hkaranth3@gatech.edu Nigam Katta nkatta9@gatech.edu Shiva Ramaswami sramaswami30@gatech.edu Suraj Karthic skarthic3@gatech.</description>
+    </item>
+    <item>
+      <title>Midterm Checkpoint</title>
+      <link>/docs/grading/project-breakdown/midterm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/docs/grading/project-breakdown/midterm/</guid>
+      <description>Midterm Checkpoint (10%) # This is a checkpoint to make sure that you have had major progress in your project. By this point, at least one machine learning model should be implemented and evaluated. Results should be presented using visualizations and quantitative metrics. You will add information to your proposal to create your midterm report.&#xA;Note: As part of research, it is natural that the project may change from the original proposed.</description>
     </item>
     <item>
       <title>Office Hours</title>
@@ -62,20 +76,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/docs/guidelines/diversity-and-inclusion/</guid>
       <description>Diversity &amp;amp; Inclusion # Just as machine learning algorithms cannot accomplish complex tasks if trained on datasets of limited variability, our course cannot be successful without appreciating the diversity of our students. In this class we aim to create an environment where all voices are valued, respecting the diversity of gender, sexuality, age, socioeconomic status, ability, ethnicity, race, and culture. We always welcome suggestions that can help us achieve this goal.</description>
-    </item>
-    <item>
-      <title>Proposal</title>
-      <link>/docs/grading/project-breakdown/proposal/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/docs/grading/project-breakdown/proposal/</guid>
-      <description>Proposal (5%) # The primary goal of the proposal is to identify a problem that can be solved with machine learning. This includes finding and/or creating a dataset as well as developing a plan for the semester.&#xA;Note: As part of research, it is natural that the project may change from the original proposed. Please be sure to document and justify these changes in the midterm and final report.</description>
-    </item>
-    <item>
-      <title>Midterm Checkpoint</title>
-      <link>/docs/grading/project-breakdown/midterm/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/docs/grading/project-breakdown/midterm/</guid>
-      <description>Midterm Checkpoint (10%) # This is a checkpoint to make sure that you have had major progress in your project. By this point, at least one machine learning model should be implemented and evaluated. Results should be presented using visualizations and quantitative metrics. You will add information to your proposal to create your midterm report.&#xA;Note: As part of research, it is natural that the project may change from the original proposed.</description>
     </item>
     <item>
       <title>Final Report</title>
