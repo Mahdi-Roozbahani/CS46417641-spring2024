@@ -58,7 +58,7 @@ In addition to the [5 sections above](#proposal-sections--checklist), please inc
 | Member2 | Contributions          |
 | ...     | ...                    |
 
-**2. Video Presentation:** The proposal video is a 3-minute recorded presentation that summarizes your proposal using Microsoft PowerPoint, Google Slides, or equivalent. We will NOT accept submissions which are over 3 minutes. Not all group members need to participate in the recording. Some criteria that will be used for evaluation are the following:
+**2. Video Presentation:** The proposal video is a 3-minute recorded presentation that summarizes your proposal using Microsoft PowerPoint, Google Slides, or equivalent. **You must create a YouTube Unlisted video and submit the link.** We will NOT accept submissions which are over 3 minutes or submissions that do not use YouTube Unlisted. Not all group members need to participate in the recording. Some criteria that will be used for evaluation are the following:
 - Strong delivery that clearly communicates all sections of the proposal
 - Effective slide design which incorporates visuals that are interpretable and legible. Any visuals that are blurry, cut-off, or contain illegible text will not be considered.
 - Concise and succinct summary of the proposal and all technical content

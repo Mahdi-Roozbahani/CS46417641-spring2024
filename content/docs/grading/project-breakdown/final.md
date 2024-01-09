@@ -46,7 +46,7 @@ In addition to the [5 sections above](#final-sections--checklist), please includ
 | Member2 | Contributions       |
 | ...     | ...                 |
 
-**2. Video Presentation:** The final video is a 9-minute recorded presentation that summarizes your proposal using Microsoft PowerPoint, Google Slides, or equivalent (~7 minutes is recommended). We will NOT accept submissions which are over 9 minutes. Not all group members need to participate in the recording. Some criteria that will be used for evaluation are the following:
+**2. Video Presentation:** The final video is a 9-minute recorded presentation that summarizes your proposal using Microsoft PowerPoint, Google Slides, or equivalent (~7 minutes is recommended). We will NOT accept submissions which are over 9 minutes or submissions that do not use YouTube Unlisted. **You must create a YouTube Unlisted video and submit the link.** Not all group members need to participate in the recording. Some criteria that will be used for evaluation are the following:
 - Strong delivery that clearly communicates all sections of the final report
 - Effective slide design which incorporates visuals that are interpretable and legible. Any visuals that are blurry, cut-off, or contain illegible text will not be considered.
 - Concise and succinct summary of the final report and all technical content
